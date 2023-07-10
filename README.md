@@ -19,7 +19,12 @@ Here are a few of the system prompts available for you in this project:
 | Prompt Name | Description | Use Case |
 |-------------|-------------|----------|
 | 🥱 [Base System Prompt](./prompts/base-system-prompt.md) | An AI assistant with a friendly and patient personality. | General knowledge assistance |
-| 🙌 [Executive Assistant](./prompts/business/executive-assistant-system-prompt.md) | An AI Executive Assistant expertly keeping executives organized. | Business & Professional Development |
+| 🙌 [Executive Assistant](./prompts/business/executive-assistant-system-prompt.md) | An AI Executive Assistant, expertly keeping executives organized. | Business & Professional Development |
+| 💼 [Executive Coach](./prompts/business/executive-coach-system-prompt.md) | An AI Executive Coach, skilled at guiding corporate leaders along individualized growth journeys. | Business & Professional Development |
+| 😋 [Professional Meal Planner](./prompts/food-drink/professional-meal-planner.md) | An AI Professional Meal Planner, providing all sorts of meal-related conversation. | Food & Drink |
+| 🫖 [Professional Tea Sommelier](./prompts/food-drink/professional-tea-sommelier.md) | An AI Professional Tea Sommelier. Need I say more?! | Food & Drink |
+| 🏖️ [Professional Tea Sommelier](./prompts/lifestyle/professional-travel-planner.md) | An AI Professional Travel Planner, ready to help you find your next adventure! | Lifestyle |
+| 👩‍🍳 [Food Pairing Assistant](./prompts/food-drink/food-pairing-assistant.md) | An AI Professional Food Pairing Assistant, ready to help you find your next adventure! | Lifestyle |
 
 You can tweak these prompts however you like. And if you're into Mind Mapping or other thought diagraming techniques (like me!), reach for tools like [Obsidian](https://obsidian.md/), or [XMind](https://xmind.app/). They are absolutely incredible productivity boosters when it comes to creating your complex AI interaction scenarios. Open any of these prompts in your visual tool of choice and you can easily shape your AI assistant's persona with amazing detail.
 
