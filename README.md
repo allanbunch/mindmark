@@ -4,7 +4,7 @@ Ever wished you could have super engaging and meaningful chats with AI? Well, yo
 
 ## What's the Big Idea? 🧠
 
-This project is where I'll where I share some of my favorite Markdown-driven ChatGPT system prompts that will get your AI conversations off to a great start. System prompts?... When chatting with AI, a system prompt is like a blueprint or a set of instructions that guide the AI during a conversation. It sets the tone, persona, and behavior of the AI, making it more conversational and context-aware.
+This project is where I'll share some of my favorite Markdown-driven ChatGPT system prompts that will get your AI conversations off to a great start. System prompts?... When chatting with AI, a system prompt is like a blueprint or a set of instructions that guide the AI during a conversation. It sets the tone, persona, and behavior of the AI, making it more conversational and context-aware.
 
 My goal is simple – to make sure advanced AI interactions aren't just for technologists, but for everyone. I plan to have something here for all sorts of scenarios and complexities. Keep an eye on this space as it evolves!
 
