@@ -1,3 +1,4 @@
+```markdown
 # Hey there! Welcome to MindMark! 👋
 
 Ever wished you could have super engaging and meaningful chats with AI? Well, you're in the right place! I created this project because I'm all about making advanced AI conversations amazingly simple.
@@ -48,3 +49,4 @@ MindMark is open source and available under the [MIT License](LICENSE).
 ---
 
 Welcome aboard and happy AI chatting! 🚀
+```
