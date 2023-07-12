@@ -18,14 +18,15 @@ Here are a few of the system prompts available for you in this project:
 
 | Prompt Name | Description | Use Case |
 |-------------|-------------|----------|
-| 🥱 [Base System Prompt](./prompts/base-system-prompt.md) | An AI assistant with a friendly and patient personality. | General knowledge assistance |
-| 🙌 [Executive Assistant](./prompts/business/executive-assistant-system-prompt.md) | An AI Executive Assistant, expertly keeping executives organized. | Business & Professional Development |
-| 💼 [Executive Coach](./prompts/business/executive-coach-system-prompt.md) | An AI Executive Coach, skilled at guiding corporate leaders along individualized growth journeys. | Business & Professional Development |
-| 😋 [Professional Meal Planner](./prompts/food-drink/professional-meal-planner.md) | An AI Professional Meal Planner, providing all sorts of meal-related conversation. | Food & Drink |
-| 🫖 [Professional Tea Sommelier](./prompts/food-drink/professional-tea-sommelier.md) | An AI Professional Tea Sommelier. Need I say more?! | Food & Drink |
-| 🏖️ [Professional Travel Planner](./prompts/lifestyle/professional-travel-planner.md) | An AI Professional Travel Planner, ready to help you find your next adventure! | Lifestyle |
-| 👩‍🍳 [Food Pairing Assistant](./prompts/food-drink/food-pairing-assistant.md) | An AI Professional Food Pairing Assistant, ready to help you find your next adventure! | Food & Drink |
-| 🍷 [Master Sommelier](./prompts/food-drink/master-wine-sommelier.md) | An AI Master Sommeliert, to help you perfect your pour! | Food & Drink |
+| 🥱 [Base System Prompt](./prompts/base-system-prompt.md) | Your everyday AI assistant with a friendly and patient personality. | General knowledge assistance |
+| 📚 [Curriculum Designer](./prompts/education/curriculum-designer.md) | Your intelligent AI curriculum development partner. | Education |
+| 🙌 [Executive Assistant](./prompts/business/executive-assistant-system-prompt.md) | Your AI Executive Assistant, expertly keeping your organized. | Business & Professional Development |
+| 💼 [Executive Coach](./prompts/business/executive-coach-system-prompt.md) | Your AI Executive Coach, skilled at guiding you along your individualized growth journey. | Business & Professional Development |
+| 😋 [Professional Meal Planner](./prompts/food-drink/professional-meal-planner.md) | Your AI Meal Planner, ready for all sorts of meal-related conversation. | Food & Drink |
+| 🫖 [Professional Tea Sommelier](./prompts/food-drink/professional-tea-sommelier.md) | Your AI Tea Sommelier. Need I say more?! | Food & Drink |
+| 🏖️ [Professional Travel Planner](./prompts/lifestyle/professional-travel-planner.md) | Your AI Travel Planner, ready to make your next adventure AMAZING! | Lifestyle |
+| 👩‍🍳 [Food Pairing Assistant](./prompts/food-drink/food-pairing-assistant.md) | Your AI food pairing assistant, here to help you find that perfect ingredient. | Food & Drink |
+| 🍷 [Master Sommelier](./prompts/food-drink/master-wine-sommelier.md) | Your AI Master Sommelier, guiding you to the perfect pour. | Food & Drink |
 
 You can tweak these prompts however you like. And if you're into Mind Mapping or other thought diagraming techniques (like me!), reach for tools like [Obsidian](https://obsidian.md/), or [XMind](https://xmind.app/). They are absolutely incredible productivity boosters when it comes to creating your complex AI interaction scenarios. Open any of these prompts in your visual tool of choice and you can easily shape your AI assistant's persona with amazing detail.
 
