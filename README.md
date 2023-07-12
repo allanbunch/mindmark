@@ -44,7 +44,7 @@ If you have any questions or just want to say hi, don't hesitate to reach out vi
 
 ## License 📄
 
-MindMark is open source and available under the [MIT No Attribution License](LICENSE). Though I'm up for a shout out! So feel free to mention me! 🙌
+MindMark is open source and available under the [MIT No Attribution License](LICENSE), though I'm always up for a shout out! So feel free to mention me! 🙌
 
 ---
 
