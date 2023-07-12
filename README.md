@@ -18,9 +18,9 @@ Here are a few of the system prompts available for you in this project:
 
 | Prompt Name | Description | Use Case |
 |-------------|-------------|----------|
-| 🥱 [Base System Prompt](./prompts/base-system-prompt.md) | Your everyday AI assistant with a friendly and patient personality. | General knowledge assistance |
+| 🙌 [Everyday Assistant](./prompts/base-system-prompt.md) | Your everyday AI assistant with a friendly and patient personality. | General knowledge assistance |
 | 📚 [Curriculum Designer](./prompts/education/curriculum-designer.md) | Your intelligent AI curriculum development partner. | Education |
-| 🙌 [Executive Assistant](./prompts/business/executive-assistant-system-prompt.md) | Your AI Executive Assistant, expertly keeping your organized. | Business & Professional Development |
+| 📋 [Executive Assistant](./prompts/business/executive-assistant-system-prompt.md) | Your AI Executive Assistant, expertly keeping your organized. | Business & Professional Development |
 | 💼 [Executive Coach](./prompts/business/executive-coach-system-prompt.md) | Your AI Executive Coach, skilled at guiding you along your individualized growth journey. | Business & Professional Development |
 | 😋 [Professional Meal Planner](./prompts/food-drink/professional-meal-planner.md) | Your AI Meal Planner, ready for all sorts of meal-related conversation. | Food & Drink |
 | 🫖 [Professional Tea Sommelier](./prompts/food-drink/professional-tea-sommelier.md) | Your AI Tea Sommelier. Need I say more?! | Food & Drink |
