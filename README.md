@@ -1,10 +1,23 @@
+
+<center>~</center>
+
+**mind**  /maɪnd/ noun <br>
+1. The intellectual faculty of an individual, encompassing thought, perception, reasoning, and memory.
+<center>~</center>
+
+**mark**  /mɑːrk/ noun <br>
+1. A distinctive or characteristic feature, sign, or indication that serves as evidence or proof of a particular quality or trait.
+<center>~</center>
+
+<br>
+
 # Hey there! Welcome to MindMark! 👋
 
 Ever wished you could have super engaging and meaningful chats with AI? Well, you're in the right place! I created this project because I'm all about making advanced AI conversations amazingly simple.
 
 ## What's the Big Idea? 🧠
 
-This project is where I'll share my Markdown-driven ChatGPT system prompts -- in Persona form -- that will get your AI conversations off to a great start. System prompts?... When chatting with AI, a system prompt is like a blueprint or a set of instructions that guide the AI during a conversation. It sets the tone, persona, and behavior of the AI, making it more conversational and context-aware.
+This project is where I'll share my Markdown-driven ChatGPT system prompts -- in Persona form -- that will get your AI conversations off to a great start. System prompts?... When chatting with AI, a system prompt is like a blueprint or a set of instructions that guide the AI during a conversation. It sets the tone, persona, and behavior of the AI, making it more conversational and context aware.
 
 My goal is simple – to make sure advanced AI interactions aren't just for technologists, but for everyone. I plan to have something here for all sorts of scenarios and complexities. Keep an eye on this space as it evolves!
 
@@ -32,7 +45,22 @@ You can tweak these personas however you like. And if you're into Mind Mapping o
 
 ## How Do I Use These Personas? 🤔
 
-It's simple! Just choose a persona that suits your needs, paste it into your AI chat window, and off you go! If you're a developer, you can use these persona Markdown structures in a nuber of ways to set the context of your API call's system message. It's up to you!
+It's simple! Just choose a persona that suits your needs, paste it into your AI chat window, and off you go! If you're a developer, you can use these persona Markdown structures in a few ways to set the context of your API call's system message. It's up to you!
+
+## However! 👆
+
+While it's all fun and games to chat with your AI perosna, it's important to remember that there's a hidden player in the background - the context window. What's a context window, you ask? Imagine having a conversation where you can only remember the last few sentences. That's the challenge our AI friend is up against!
+
+Even though it's pretty smart, our AI has a limit to what it can remember from earlier in the conversation. This is known as the 'context window'. But don't worry, we've got some simple steps to help you make the most of it:
+
+- **Keep it Short and Sweet**: When you're starting your conversation with the AI, try to keep your initial prompt concise. This leaves more room for a longer conversation before the context window limit is reached.
+
+- **Moving Window Strategy**: As your conversation goes on, sprinkle in some important points from earlier in the conversation. This helps the AI remember the key bits, even when older parts fall out of its memory.
+
+- **Stay on Point**: Try to keep your conversation exchanges relevant and precise. This way, you can ensure the most important information is captured within the context window.
+
+And there you have it! With these tips, you can have meaningful, contextualized conversations with your AI, all while playing nice with the context window. Happy chatting!
+
 
 ## Can I Contribute? 🙋‍♂️
 
