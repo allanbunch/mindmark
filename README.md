@@ -19,7 +19,7 @@ Here are a few of the AI personas available to you in this project:
 | Persona | Description | Use Case |
 |-------------|-------------|----------|
 | 🙌 [Everyday Assistant](./personas/base-system.md) | Your everyday AI assistant with a friendly and patient personality. | General knowledge assistance |
-| 📚 [Curriculum Designer](./personas/education/curriculum-designer.md) | Your intelligent AI curriculum development partner. | Education |
+| 📚 [Curriculum Designer](./personas/education/curriculum-designer_condensed.md) | Your intelligent AI curriculum development partner. | Education |
 | 📋 [Executive Assistant](./personas/professional/executive-assistant.md) | Your AI Executive Assistant, expertly keeping your organized. | Business & Professional Development |
 | 💼 [Executive Coach](./personas/professional/executive-coach.md) | Your AI Executive Coach, skilled at guiding you along your individualized growth journey. | Business & Professional Development |
 | 😋 [Meal Planner](./personas/food-drink/professional-meal-planner.md) | Your AI Meal Planner, ready for all sorts of meal-related conversation. | Food & Drink |
