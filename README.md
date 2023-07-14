@@ -4,7 +4,7 @@ Ever wished you could have super engaging and meaningful chats with AI? Well, yo
 
 ## What's the Big Idea? 🧠
 
-This project is where I'll share my Markdown-driven ChatGPT system prompts -- in Persona form -- that will get your AI conversations off to a great start. System prompts?... When chatting with AI, a system prompt is like a blueprint or a set of instructions that guide the AI during a conversation. It sets the tone, persona, and behavior of the AI, making it more conversational and context-aware.
+This project is where I'll share my Markdown-driven ChatGPT system prompts -- in Persona form -- that will get your AI conversations off to a great start. What are system prompts? When chatting with AI, a system prompt is like a blueprint or a set of instructions that guide the AI during a conversation. It sets the tone, persona, and behavior of the AI, making it more conversational and context-aware.
 
 My goal is simple – to make sure advanced AI interactions aren't just for technologists, but for everyone. I plan to have something here for all sorts of scenarios and complexities. Keep an eye on this space as it evolves!
 
@@ -24,7 +24,7 @@ Here are a few of the AI personas available to you in this project:
 
 ### Persona Categories 🔠
 
-----
+You're encouraged to customize these personas to your specific needs; the magic is in the markdown! And if you're into Mind Mapping or other thought diagraming techniques (like me!), reach for tools like [Obsidian](https://obsidian.md/), or [XMind](https://xmind.app/). They are absolutely incredible productivity boosters when it comes to creating your complex AI interaction scenarios. Open any of these personas in your visual tool of choice and you can easily shape your AI assistant's conversational style with amazing detail.
 
 #### Click a category to expand:
 <details>
@@ -107,9 +107,6 @@ Here are a few of the AI personas available to you in this project:
 </details>
 
 <br>
-
-__Note__:
-You can tweak these personas to your specific needs; they're all 100% markdown! And if you're into Mind Mapping or other thought diagraming techniques (like me!), reach for tools like [Obsidian](https://obsidian.md/), or [XMind](https://xmind.app/). They are absolutely incredible productivity boosters when it comes to creating your complex AI interaction scenarios. Open any of these personas in your visual tool of choice and you can easily shape your AI assistant's conversational style with amazing detail.
 
 ## How Do I Use These Personas? 🤔
 
