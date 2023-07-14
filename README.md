@@ -23,7 +23,7 @@ My goal is simple – to make sure advanced AI interactions aren't just for tech
 
 ## Who's This For? 🧐
 
-**Everyone!** #AIForAll
+**Everyone!** Because #AIForAll
 
 ## Available Personas 📚
 
@@ -31,9 +31,9 @@ Here are a few of the AI personas available to you in this project:
 
 | Persona | Description | Category |
 |------------|------------|---------------|
-| 🫖 [Tea Sommelier](./personas/food-drink/tea-sommelier.md) | Your AI Tea Sommelier. Need I say more? | [Food & Drink](./personas/food-drink/) |
-| 📚 [Curriculum Designer](./personas/education/curriculum-designer_condensed.md) | Your energetic curriculum consultant, ready to help you craft an impactful program. | [Education](./personas/education/) |
-| 💼 [Executive Coach](./personas/professional/executive-coach.md) | Your AI Executive Coach, skilled at guiding you along your individualized growth journey. | [Professional](./personas/professional/) |
+| 🫖 [Tea Sommelier](./minds/culinary/tea-sommelier.md) | Your AI Tea Sommelier. Need I say more? | [Culinary](./minds/culinary/) |
+| 📚 [Curriculum Designer](./minds/education/curriculum-designer.md) | Your energetic curriculum consultant, ready to help you craft an impactful program. | [Education](./minds/education/) |
+| 💼 [Executive Coach](./minds/professional/executive-coach.md) | Your AI Executive Coach, skilled at guiding you along your individualized growth journey. | [Professional](./minds/professional/) |
 
 ### Persona Categories 🔠
 
@@ -43,41 +43,41 @@ You're encouraged to customize these personas to your specific needs; the magic 
 <details>
   <summary>Education</summary>
 
-<em>(Select a persona to open in a new tab.)</em>
+<em>(Select a persona to open.)</em>
 
- &bull; <a href="./personas/education/curriculum-designer_condensed.md" target="_blank" rel="noopener noreferrer">Curriculum Designer</a> &mdash; Your energetic curriculum consultant, ready to help you craft an impactful program.
+ &bull; <a href="./minds/education/curriculum-designer" target="_blank" rel="noopener noreferrer">Curriculum Designer</a> &mdash; Your energetic curriculum consultant, ready to help you craft an impactful program.
  <br>
- &bull; <a href="./personas/education/doctoral-advisor.md" target="_blank" rel="noopener noreferrer">Doctoral Advisor</a> &mdash; A steadfast sherpa - guiding you through the peaks and valleys of the dissertation journey.
+ &bull; <a href="./minds/education/doctoral-advisor.md" target="_blank" rel="noopener noreferrer">Doctoral Advisor</a> &mdash; A steadfast sherpa - guiding you through the peaks and valleys of the dissertation journey.
  <br>
- &bull; <a href="./personas/education/high-school-math-tutor.md" target="_blank" rel="noopener noreferrer">High School Math Tutor</a> &mdash; Your personal equation whisperer, ready to break down complex concepts into simple step-by-step solutions.
+ &bull; <a href="./minds/education/high-school-math-tutor.md" target="_blank" rel="noopener noreferrer">High School Math Tutor</a> &mdash; Your personal equation whisperer, ready to break down complex concepts into simple step-by-step solutions.
  <br>
- &bull; <a href="./personas/education/python-programming-tutor.md" target="_blank" rel="noopener noreferrer">Python Programming Tutor</a> &mdash; Your personal code decoder - here to demystify programming and help you master Python.
+ &bull; <a href="./minds/education/python-programming-tutor.md" target="_blank" rel="noopener noreferrer">Python Programming Tutor</a> &mdash; Your personal code decoder - here to demystify programming and help you master Python.
 
 </details>
 
 <details>
-  <summary>Food & Drink</summary>
+  <summary>Culinary</summary>
 
-  <em>(Select a persona to open in a new tab.)</em>
+  <em>(Select a persona to open.)</em>
 
- &bull; <a href="./personas/food-drink/food-pairing-assistant.md" target="_blank" rel="noopener noreferrer">Food Pairing Assistant</a> &mdash; A food alchemist - blending unexpected flavors and textures to create magical culinary combinations.
+ &bull; <a href="./minds/culinary/food-pairing-assistant.md" target="_blank" rel="noopener noreferrer">Food Pairing Assistant</a> &mdash; A food alchemist - blending unexpected flavors and textures to create magical culinary combinations.
  <br>
- &bull; <a href="./personas/food-drink/master-wine-sommelier.md" target="_blank" rel="noopener noreferrer">Master Wine Sommelier</a> &mdash; A wine wizard - using its mystique to conjure up the perfect pour to complement the palette.
+ &bull; <a href="./minds/culinary/master-wine-sommelier.md" target="_blank" rel="noopener noreferrer">Master Wine Sommelier</a> &mdash; A wine wizard - using its mystique to conjure up the perfect pour to complement the palette.
  <br>
- &bull; <a href="./personas/food-drink/meal-planner.md" target="_blank" rel="noopener noreferrer">Meal Planner</a> &mdash; Your personal nutrition maestro - crafting healthy, delicious menus tailored to your lifestyle and goals.
+ &bull; <a href="./minds/culinary/meal-planner.md" target="_blank" rel="noopener noreferrer">Meal Planner</a> &mdash; Your personal nutrition maestro - crafting healthy, delicious menus tailored to your lifestyle and goals.
  <br>
- &bull; <a href="./personas/food-drink/tea-sommelier.md" target="_blank" rel="noopener noreferrer">Tea Sommelier</a> &mdash; A tea leaf translator - steeping you in the perfect infusion of flavor, aroma and body.
+ &bull; <a href="./minds/culinary/tea-sommelier.md" target="_blank" rel="noopener noreferrer">Tea Sommelier</a> &mdash; A tea leaf translator - steeping you in the perfect infusion of flavor, aroma and body.
 </details>
 
 <details>
 
   <summary>Lifestyle</summary>
 
-  <em>(Select a persona to open in a new tab.)</em>
+  <em>(Select a persona to open.)</em>
 
- &bull; <a href="./personas/lifestyle/travel-planner.md" target="_blank" rel="noopener noreferrer">Travel Planner</a> &mdash; Your globe-trotting guru - crafting customized itineraries that showcase the best sights and hidden gems.
+ &bull; <a href="./minds/lifestyle/travel-planner.md" target="_blank" rel="noopener noreferrer">Travel Planner</a> &mdash; Your globe-trotting guru - crafting customized itineraries that showcase the best sights and hidden gems.
  <br>
- &bull; <a href="./personas/lifestyle/wedding-planner.md" target="_blank" rel="noopener noreferrer">Wedding Planner</a> &mdash; Your celebration maestro - orchestrating behind the scenes so you can savor each magical moment.
+ &bull; <a href="./minds/lifestyle/wedding-planner.md" target="_blank" rel="noopener noreferrer">Wedding Planner</a> &mdash; Your celebration maestro - orchestrating behind the scenes so you can savor each magical moment.
 
 </details>
 
@@ -85,9 +85,9 @@ You're encouraged to customize these personas to your specific needs; the magic 
 
   <summary>Music</summary>
 
-  <em>(Select a persona to open in a new tab.)</em>
+  <em>(Select a persona to open.)</em>
 
- &bull; <a href="./personas/music/parody-song-writer.md" target="_blank" rel="noopener noreferrer">Parody Song Writer</a> &mdash; A pun-slinging word nerd - twisting tunes with witty new verses guaranteed to tickle your funny bone.
+ &bull; <a href="./minds/music/parody-song-writer.md" target="_blank" rel="noopener noreferrer">Parody Song Writer</a> &mdash; A pun-slinging word nerd - twisting tunes with witty new verses guaranteed to tickle your funny bone.
 
 </details>
 
@@ -95,28 +95,28 @@ You're encouraged to customize these personas to your specific needs; the magic 
 
   <summary>Professional</summary>
 
-  <em>(Select a persona to open in a new tab.)</em>
+  <em>(Select a persona to open.)</em>
 
- &bull; <a href="./personas/professional/career-coach.md" target="_blank" rel="noopener noreferrer">Career Coach</a> &mdash; Your goal-getting mentor - offering guidance and motivation so you can navigate your professional path.
+ &bull; <a href="./minds/professional/career-coach.md" target="_blank" rel="noopener noreferrer">Career Coach</a> &mdash; Your goal-getting mentor - offering guidance and motivation so you can navigate your professional path.
 <br>
- &bull; <a href="./personas/professional/copy-editor.md" target="_blank" rel="noopener noreferrer">Copy Editor</a>
+ &bull; <a href="./minds/professional/copy-editor.md" target="_blank" rel="noopener noreferrer">Copy Editor</a>
  &mdash; An eagle-eyed wordsmith - dedicated to refining your writing with a keen eye for perfecting prose.
  <br>
- &bull; <a href="./personas/professional/editor-in-chief.md" target="_blank" rel="noopener noreferrer">Editor-in-Chief</a> &mdash; A story-shaping visionary - sure to bringing out the best in writers.
+ &bull; <a href="./minds/professional/editor-in-chief.md" target="_blank" rel="noopener noreferrer">Editor-in-Chief</a> &mdash; A story-shaping visionary - sure to bringing out the best in writers.
  <br>
- &bull; <a href="./personas/professional/executive-assistant.md" target="_blank" rel="noopener noreferrer">Executive Assistant</a> &mdash; Your productivity pro - handling tasks efficiently and anticipating your needs.
+ &bull; <a href="./minds/professional/executive-assistant.md" target="_blank" rel="noopener noreferrer">Executive Assistant</a> &mdash; Your productivity pro - handling tasks efficiently and anticipating your needs.
  <br>
- &bull; <a href="./personas/professional/executive-coach.md" target="_blank" rel="noopener noreferrer">Executive Coach</a> &mdash; Your hype person in a power suit - ready to pump you up and help you own your awesomeness!
+ &bull; <a href="./minds/professional/executive-coach.md" target="_blank" rel="noopener noreferrer">Executive Coach</a> &mdash; Your hype person in a power suit - ready to pump you up and help you own your awesomeness!
  <br>
- &bull; <a href="./personas/professional/executive-mba.md" target="_blank" rel="noopener noreferrer">Executive MBA</a> &mdash; Your 360 degree leadership navigator - providing keen insights and guidance so you can steer your career to new heights.
+ &bull; <a href="./minds/professional/executive-mba.md" target="_blank" rel="noopener noreferrer">Executive MBA</a> &mdash; Your 360 degree leadership navigator - providing keen insights and guidance so you can steer your career to new heights.
  <br>
- &bull; <a href="./personas/professional/fact-checker.md" target="_blank" rel="noopener noreferrer">Fact Checker</a> &mdash; Your no nonsense insights pro - mixing analytics with real-world smarts to cut through the noise, provide clarity.
+ &bull; <a href="./minds/professional/fact-checker.md" target="_blank" rel="noopener noreferrer">Fact Checker</a> &mdash; Your no nonsense insights pro - mixing analytics with real-world smarts to cut through the noise, provide clarity.
  <br>
- &bull; <a href="./personas/professional/project-portfolio-manager.md" target="_blank" rel="noopener noreferrer">Project Portfolio Manager</a> &mdash; Your taskmaster extraordinaire - wielding organization and insights to tame unwieldy projects into a streamlined portfolio.
+ &bull; <a href="./minds/professional/project-portfolio-manager.md" target="_blank" rel="noopener noreferrer">Project Portfolio Manager</a> &mdash; Your taskmaster extraordinaire - wielding organization and insights to tame unwieldy projects into a streamlined portfolio.
  <br>
- &bull; <a href="./personas/professional/quantitative-analyst.md" target="_blank" rel="noopener noreferrer">Quantitative Analyst</a> &mdash; Your data whisperer - revealing insights through number crunching wizardry and visualizations that tell compelling stories.
+ &bull; <a href="./minds/professional/quantitative-analyst.md" target="_blank" rel="noopener noreferrer">Quantitative Analyst</a> &mdash; Your data whisperer - revealing insights through number crunching wizardry and visualizations that tell compelling stories.
  <br>
-&bull; <a href="./personas/professional/resume-writer.md" target="_blank" rel="noopener noreferrer">Resume Writer</a> &mdash; Your personal branding guru - crafting resumes to showcase your magnificence and compel opportunities to come knocking.
+&bull; <a href="./minds/professional/resume-writer.md" target="_blank" rel="noopener noreferrer">Resume Writer</a> &mdash; Your personal branding guru - crafting resumes to showcase your magnificence and compel opportunities to come knocking.
 </details>
 
 <br>
@@ -124,20 +124,6 @@ You're encouraged to customize these personas to your specific needs; the magic 
 ## How Do I Use These Personas? 🤔
 
 It's simple! Just choose a persona that suits your needs, paste it into your AI chat window, and off you go! If you're a developer, you can use these persona Markdown structures in a few ways to set the context of your API call's system message. It's up to you!
-
-## However! 👆
-
-While it's all fun and games to chat with your AI perosna, it's important to remember that there's a hidden player in the background - the context window. What's a context window, you ask? Imagine having a conversation where you can only remember the last few sentences. That's the challenge our AI friend is up against!
-
-Even though it's pretty smart, our AI has a limit to what it can remember from earlier in the conversation. This is known as the 'context window'. But don't worry, we've got some simple steps to help you make the most of it:
-
-- **Keep it Short and Sweet**: When you're starting your conversation with the AI, try to keep your initial prompt concise. This leaves more room for a longer conversation before the context window limit is reached.
-
-- **Moving Window Strategy**: As your conversation goes on, sprinkle in some important points from earlier in the conversation. This helps the AI remember the key bits, even when older parts fall out of its memory.
-
-- **Stay on Point**: Try to keep your conversation exchanges relevant and precise. This way, you can ensure the most important information is captured within the context window.
-
-And there you have it! With these tips, you can have meaningful, contextualized conversations with your AI, all while playing nice with the context window. Happy chatting!
 
 | Platform | Instructions  | Smarts 🧠💪 |
 |------------|------------|---------------|
@@ -147,9 +133,17 @@ And there you have it! With these tips, you can have meaningful, contextualized 
 
 <span style="color: #F9DC5C;">**</span> Recommended! 💯
 
+### However! ℹ️
+
+While it's all fun and games to chat with your AI perosna, it's important to remember that there's a hidden player in the background - the context window. What's a context window, you ask? Imagine having a conversation where you can only remember the last few sentences. That's the challenge our AI friend is up against!
+
+Here's a tip! As your conversation goes on, sprinkle in some important points from earlier in the conversation. This helps the your AI persona remember the key bits, even when older parts fall out of its memory.
+
+And there you have it! With these tips, you can have meaningful, contextualized conversations with your AI persona, all while playing nice with the context window. Happy chatting!
+
 ## Can I Contribute? 🙋‍♂️
 
-Absolutely! I'd love to see your contributions. Just fork the repo, make your changes, and send me a pull request. I'll be sure to check it out!
+Absolutely! I'd love to see the personas you come up with. Just fork the repo, make your changes, and send me a pull request. I'll be sure to check it out!
 
 ## Got Questions? 🗣️
 
