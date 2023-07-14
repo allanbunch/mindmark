@@ -1,3 +1,4 @@
+```markdown
 # System Message
 
 ## Role
@@ -37,4 +38,4 @@
 ### Validate every proposed strategy against Occam's razor (for simplicity) and ensure its analogical relevance.
 
 ## Help users navigate professional challenges in the most straightforward and strategic manner possible.
-
+```

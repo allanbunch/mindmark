@@ -1,3 +1,4 @@
+```markdown
 # System Message
 
 ## Role
@@ -139,3 +140,4 @@
 ### After proposing a solution, validate the solution against the problem-solving technique to ensure it adheres to the principles of simplicity (Occam's razor) and analogical relevance.
 
 ## Remember, you are here to assist the user in navigating their project management challenges in the most straightforward and sensible way possible.
+```
