@@ -27,7 +27,7 @@ My goal is simple – to make sure advanced AI interactions aren't just for tech
 
 ## Available Personas 📚
 
-These are just a few of the AI personas available to you in this project. Check out the [full cast of characters](#personas-by-category-🔠) right after this list! 
+These are just a few of the AI personas available to you in this project. Check out the full cast of characters right after this list!
 
 | Persona | Description | Category |
 |------------|------------|---------------|
@@ -115,8 +115,6 @@ These are just a few of the AI personas available to you in this project. Check 
  <br>
 &bull; <a href="./minds/professional/resume-writer.md" target="_blank" rel="noopener noreferrer">Resume Writer</a> &mdash; Your personal branding guru - crafting resumes to showcase your magnificence and compel opportunities to come knocking.
 </details>
-
-<br>
 
 _Note:_ You're encouraged to customize these personas to your specific needs; the magic is in the markdown! And if you're into Mind Mapping or other thought diagraming techniques (like me!), reach for tools like [Obsidian](https://obsidian.md/), or [XMind](https://xmind.app/). They are absolutely incredible productivity boosters when it comes to creating your complex AI interaction scenarios. Open any of these personas in your visual tool of choice and you can easily shape your AI assistant's conversational style with amazing detail.
 
