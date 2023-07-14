@@ -1,13 +1,14 @@
+<div style="text-align: center;">
+  **mind**  /maɪnd/ noun <br>
+  1. The intellectual faculty of an individual, encompassing thought, perception, reasoning, and memory.
+</div>
 
-<center>~</center>
+<div style="text-align: center;">~</div>
 
-**mind**  /maɪnd/ noun <br>
-1. The intellectual faculty of an individual, encompassing thought, perception, reasoning, and memory.
-<center>~</center>
-
-**mark**  /mɑːrk/ noun <br>
-1. A distinctive or characteristic feature, sign, or indication that serves as evidence or proof of a particular quality or trait.
-<center>~</center>
+<div style="text-align: center;">
+  **mark**  /mɑːrk/ noun <br>
+  1. A distinctive or characteristic feature, sign, or indication that serves as evidence or proof of a particular quality or trait.
+</div>
 
 <br>
 
