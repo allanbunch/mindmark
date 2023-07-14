@@ -17,10 +17,9 @@ My goal is simple – to make sure advanced AI interactions aren't just for tech
 Here are a few of the AI personas available to you in this project:
 
 | Persona | Description | Category |
-|-------------|-------------|----------|
+|------------|------------|---------------|
 | 🫖 [Tea Sommelier](./personas/food-drink/tea-sommelier.md) | Your AI Tea Sommelier. Need I say more? | [Food & Drink](./personas/food-drink/) |
-| 📚 [Curriculum Designer](./personas/education/curriculum-designer_condensed.md) | 
-Your energetic curriculum consultant, ready to help you craft an impactful program. | [Education](./personas/education/) |
+| 📚 [Curriculum Designer](./personas/education/curriculum-designer_condensed.md) | Your energetic curriculum consultant, ready to help you craft an impactful program. | [Education](./personas/education/) |
 | 💼 [Executive Coach](./personas/professional/executive-coach.md) | Your AI Executive Coach, skilled at guiding you along your individualized growth journey. | [Professional](./personas/professional/) |
 
 ### Persona Categories 🔠
@@ -115,7 +114,7 @@ You can tweak these personas to your specific needs; they're all 100% markdown! 
 ## How Do I Use These Personas? 🤔
 
 | Platform | Instructions  | Smarts 🧠💪 |
-|-------------|-------------|-------------|
+|------------|------------|---------------|
 | Google - Bard | Start a new chat in [Bard's chat interface](https://bard.google.com/) and paste your desired persona. | 🌕🌕🌕🌑🌑 |
 | OpenAI - ChatGPT | Start a new chat in [ChatGPT's chat interface](https://chat.openai.com/) and paste your desired persona. | 🌕🌕🌕🌗🌑 |
 | <span style="color:#F9DC5C">**</span> Antropic - Claude AI | Start a new chat in [Claude's chat interface](https://claude.ai/) and paste your desired persona. | 🌕🌕🌕🌕🌘 |
