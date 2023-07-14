@@ -29,19 +29,97 @@ My goal is simple – to make sure advanced AI interactions aren't just for tech
 
 Here are a few of the AI personas available to you in this project:
 
-| Persona | Description | Use Case |
-|-------------|-------------|----------|
-| 🙌 [Everyday Assistant](./personas/base-system.md) | Your everyday AI assistant with a friendly and patient personality. | General knowledge assistance |
-| 📚 [Curriculum Designer](./personas/education/curriculum-designer.md) | Your intelligent AI curriculum development partner. | Education |
-| 📋 [Executive Assistant](./personas/professional/executive-assistant.md) | Your AI Executive Assistant, expertly keeping your organized. | Business & Professional Development |
-| 💼 [Executive Coach](./personas/professional/executive-coach.md) | Your AI Executive Coach, skilled at guiding you along your individualized growth journey. | Business & Professional Development |
-| 😋 [Meal Planner](./personas/food-drink/professional-meal-planner.md) | Your AI Meal Planner, ready for all sorts of meal-related conversation. | Food & Drink |
-| 🫖 [Tea Sommelier](./personas/food-drink/professional-tea-sommelier.md) | Your AI Tea Sommelier. Need I say more?! | Food & Drink |
-| 🏖️ [Travel Planner](./personas/lifestyle/professional-travel-planner.md) | Your AI Travel Planner, ready to make your next adventure AMAZING! | Lifestyle |
-| 👩‍🍳 [Food Pairing Assistant](./personas/food-drink/food-pairing-assistant.md) | Your AI food pairing assistant, here to help you find that perfect ingredient. | Food & Drink |
-| 🍷 [Master Sommelier](./personas/food-drink/master-wine-sommelier.md) | Your AI Master Sommelier, guiding you to the perfect pour. | Food & Drink |
+| Persona | Description | Category |
+|------------|------------|---------------|
+| 🫖 [Tea Sommelier](./personas/food-drink/tea-sommelier.md) | Your AI Tea Sommelier. Need I say more? | [Food & Drink](./personas/food-drink/) |
+| 📚 [Curriculum Designer](./personas/education/curriculum-designer_condensed.md) | Your energetic curriculum consultant, ready to help you craft an impactful program. | [Education](./personas/education/) |
+| 💼 [Executive Coach](./personas/professional/executive-coach.md) | Your AI Executive Coach, skilled at guiding you along your individualized growth journey. | [Professional](./personas/professional/) |
 
-You can tweak these personas however you like. And if you're into Mind Mapping or other thought diagraming techniques (like me!), reach for tools like [Obsidian](https://obsidian.md/), or [XMind](https://xmind.app/). They are absolutely incredible productivity boosters when it comes to creating your complex AI interaction scenarios. Open any of these personas in your visual tool of choice and you can easily shape your AI assistant's conversational style with amazing detail.
+### Persona Categories 🔠
+
+You're encouraged to customize these personas to your specific needs; the magic is in the markdown! And if you're into Mind Mapping or other thought diagraming techniques (like me!), reach for tools like [Obsidian](https://obsidian.md/), or [XMind](https://xmind.app/). They are absolutely incredible productivity boosters when it comes to creating your complex AI interaction scenarios. Open any of these personas in your visual tool of choice and you can easily shape your AI assistant's conversational style with amazing detail.
+
+#### Click a category to expand:
+<details>
+  <summary>Education</summary>
+
+<em>(Select a persona to open in a new tab.)</em>
+
+ &bull; <a href="./personas/education/curriculum-designer_condensed.md" target="_blank" rel="noopener noreferrer">Curriculum Designer</a> &mdash; Your energetic curriculum consultant, ready to help you craft an impactful program.
+ <br>
+ &bull; <a href="./personas/education/doctoral-advisor.md" target="_blank" rel="noopener noreferrer">Doctoral Advisor</a> &mdash; A steadfast sherpa - guiding you through the peaks and valleys of the dissertation journey.
+ <br>
+ &bull; <a href="./personas/education/high-school-math-tutor.md" target="_blank" rel="noopener noreferrer">High School Math Tutor</a> &mdash; Your personal equation whisperer, ready to break down complex concepts into simple step-by-step solutions.
+ <br>
+ &bull; <a href="./personas/education/python-programming-tutor.md" target="_blank" rel="noopener noreferrer">Python Programming Tutor</a> &mdash; Your personal code decoder - here to demystify programming and help you master Python.
+
+</details>
+
+<details>
+  <summary>Food & Drink</summary>
+
+  <em>(Select a persona to open in a new tab.)</em>
+
+ &bull; <a href="./personas/food-drink/food-pairing-assistant.md" target="_blank" rel="noopener noreferrer">Food Pairing Assistant</a> &mdash; A food alchemist - blending unexpected flavors and textures to create magical culinary combinations.
+ <br>
+ &bull; <a href="./personas/food-drink/master-wine-sommelier.md" target="_blank" rel="noopener noreferrer">Master Wine Sommelier</a> &mdash; A wine wizard - using its mystique to conjure up the perfect pour to complement the palette.
+ <br>
+ &bull; <a href="./personas/food-drink/meal-planner.md" target="_blank" rel="noopener noreferrer">Meal Planner</a> &mdash; Your personal nutrition maestro - crafting healthy, delicious menus tailored to your lifestyle and goals.
+ <br>
+ &bull; <a href="./personas/food-drink/tea-sommelier.md" target="_blank" rel="noopener noreferrer">Tea Sommelier</a> &mdash; A tea leaf translator - steeping you in the perfect infusion of flavor, aroma and body.
+</details>
+
+<details>
+
+  <summary>Lifestyle</summary>
+
+  <em>(Select a persona to open in a new tab.)</em>
+
+ &bull; <a href="./personas/lifestyle/travel-planner.md" target="_blank" rel="noopener noreferrer">Travel Planner</a> &mdash; Your globe-trotting guru - crafting customized itineraries that showcase the best sights and hidden gems.
+ <br>
+ &bull; <a href="./personas/lifestyle/wedding-planner.md" target="_blank" rel="noopener noreferrer">Wedding Planner</a> &mdash; Your celebration maestro - orchestrating behind the scenes so you can savor each magical moment.
+
+</details>
+
+<details>
+
+  <summary>Music</summary>
+
+  <em>(Select a persona to open in a new tab.)</em>
+
+ &bull; <a href="./personas/music/parody-song-writer.md" target="_blank" rel="noopener noreferrer">Parody Song Writer</a> &mdash; A pun-slinging word nerd - twisting tunes with witty new verses guaranteed to tickle your funny bone.
+
+</details>
+
+<details>
+
+  <summary>Professional</summary>
+
+  <em>(Select a persona to open in a new tab.)</em>
+
+ &bull; <a href="./personas/professional/career-coach.md" target="_blank" rel="noopener noreferrer">Career Coach</a> &mdash; Your goal-getting mentor - offering guidance and motivation so you can navigate your professional path.
+<br>
+ &bull; <a href="./personas/professional/copy-editor.md" target="_blank" rel="noopener noreferrer">Copy Editor</a>
+ &mdash; An eagle-eyed wordsmith - dedicated to refining your writing with a keen eye for perfecting prose.
+ <br>
+ &bull; <a href="./personas/professional/editor-in-chief.md" target="_blank" rel="noopener noreferrer">Editor-in-Chief</a> &mdash; A story-shaping visionary - sure to bringing out the best in writers.
+ <br>
+ &bull; <a href="./personas/professional/executive-assistant.md" target="_blank" rel="noopener noreferrer">Executive Assistant</a> &mdash; Your productivity pro - handling tasks efficiently and anticipating your needs.
+ <br>
+ &bull; <a href="./personas/professional/executive-coach.md" target="_blank" rel="noopener noreferrer">Executive Coach</a> &mdash; Your hype person in a power suit - ready to pump you up and help you own your awesomeness!
+ <br>
+ &bull; <a href="./personas/professional/executive-mba.md" target="_blank" rel="noopener noreferrer">Executive MBA</a> &mdash; Your 360 degree leadership navigator - providing keen insights and guidance so you can steer your career to new heights.
+ <br>
+ &bull; <a href="./personas/professional/fact-checker.md" target="_blank" rel="noopener noreferrer">Fact Checker</a> &mdash; Your no nonsense insights pro - mixing analytics with real-world smarts to cut through the noise, provide clarity.
+ <br>
+ &bull; <a href="./personas/professional/project-portfolio-manager.md" target="_blank" rel="noopener noreferrer">Project Portfolio Manager</a> &mdash; Your taskmaster extraordinaire - wielding organization and insights to tame unwieldy projects into a streamlined portfolio.
+ <br>
+ &bull; <a href="./personas/professional/quantitative-analyst.md" target="_blank" rel="noopener noreferrer">Quantitative Analyst</a> &mdash; Your data whisperer - revealing insights through number crunching wizardry and visualizations that tell compelling stories.
+ <br>
+&bull; <a href="./personas/professional/resume-writer.md" target="_blank" rel="noopener noreferrer">Resume Writer</a> &mdash; Your personal branding guru - crafting resumes to showcase your magnificence and compel opportunities to come knocking.
+</details>
+
+<br>
 
 ## How Do I Use These Personas? 🤔
 
@@ -61,6 +139,13 @@ Even though it's pretty smart, our AI has a limit to what it can remember from e
 
 And there you have it! With these tips, you can have meaningful, contextualized conversations with your AI, all while playing nice with the context window. Happy chatting!
 
+| Platform | Instructions  | Smarts 🧠💪 |
+|------------|------------|---------------|
+| Google - Bard | Start a new chat in <a href="https://bard.google.com/" target="_blank" rel="noopener noreferrer">Bard's chat interface</a> and paste your desired persona. | 🌕🌕🌘🌑 |
+| OpenAI - ChatGPT | Start a new chat in <a href="https://chat.openai.com/" target="_blank" rel="noopener noreferrer">ChatGPT's chat interface</a> and paste your desired persona. | 🌕🌕🌕🌑 |
+| <span style="color: #F9DC5C;">**</span> Antropic - Claude AI | Start a new chat in <a href="https://claude.ai/" target="_blank" rel="noopener noreferrer">Claude's chat interface</a> and paste your desired persona. | 🌕🌕🌕🌘 |
+
+<span style="color: #F9DC5C;">**</span> Recommended! 💯
 
 ## Can I Contribute? 🙋‍♂️
 
