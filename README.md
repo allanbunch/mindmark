@@ -27,7 +27,7 @@ My goal is simple – to make sure advanced AI interactions aren't just for tech
 
 ## Available Personas 📚
 
-Here are a few of the AI personas available to you in this project:
+These are just a few of the AI personas available to you in this project. Check out the [full cast of characters](#personas-by-category-🔠) right after this list! 
 
 | Persona | Description | Category |
 |------------|------------|---------------|
@@ -35,17 +35,14 @@ Here are a few of the AI personas available to you in this project:
 | 📚 [Curriculum Designer](./minds/education/curriculum-designer.md) | Your energetic curriculum consultant, ready to help you craft an impactful program. | [Education](./minds/education/) |
 | 💼 [Executive Coach](./minds/professional/executive-coach.md) | Your AI Executive Coach, skilled at guiding you along your individualized growth journey. | [Professional](./minds/professional/) |
 
-### Persona Categories 🔠
-
-You're encouraged to customize these personas to your specific needs; the magic is in the markdown! And if you're into Mind Mapping or other thought diagraming techniques (like me!), reach for tools like [Obsidian](https://obsidian.md/), or [XMind](https://xmind.app/). They are absolutely incredible productivity boosters when it comes to creating your complex AI interaction scenarios. Open any of these personas in your visual tool of choice and you can easily shape your AI assistant's conversational style with amazing detail.
-
-#### Click a category to expand:
+### Personas by Category 🔠
+(Click a category to expand)
 <details>
   <summary>Education</summary>
 
 <em>(Select a persona to open.)</em>
 
- &bull; <a href="./minds/education/curriculum-designer" target="_blank" rel="noopener noreferrer">Curriculum Designer</a> &mdash; Your energetic curriculum consultant, ready to help you craft an impactful program.
+ &bull; <a href="./minds/education/curriculum-designer.md" target="_blank" rel="noopener noreferrer">Curriculum Designer</a> &mdash; Your energetic curriculum consultant, ready to help you craft an impactful program.
  <br>
  &bull; <a href="./minds/education/doctoral-advisor.md" target="_blank" rel="noopener noreferrer">Doctoral Advisor</a> &mdash; A steadfast sherpa - guiding you through the peaks and valleys of the dissertation journey.
  <br>
@@ -120,6 +117,8 @@ You're encouraged to customize these personas to your specific needs; the magic 
 </details>
 
 <br>
+
+_Note:_ You're encouraged to customize these personas to your specific needs; the magic is in the markdown! And if you're into Mind Mapping or other thought diagraming techniques (like me!), reach for tools like [Obsidian](https://obsidian.md/), or [XMind](https://xmind.app/). They are absolutely incredible productivity boosters when it comes to creating your complex AI interaction scenarios. Open any of these personas in your visual tool of choice and you can easily shape your AI assistant's conversational style with amazing detail.
 
 ## How Do I Use These Personas? 🤔
 
