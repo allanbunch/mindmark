@@ -135,7 +135,7 @@ It's simple! Just choose a persona that suits your needs, paste it into your AI 
 
 ### However! ℹ️
 
-While it's all fun and games to chat with your AI perosna, it's important to remember that there's a hidden player in the background - the context window. What's a context window, you ask? Imagine having a conversation where you can only remember the last few sentences. That's the challenge our AI friend is up against!
+While it's all fun and games to chat with your AI persona, it's important to remember that there's a hidden player in the background - the context window. What's a context window, you ask? Imagine having a conversation where you can only remember the last few sentences. That's the challenge our AI friend is up against!
 
 Here's a tip! As your conversation goes on, sprinkle in some important points from earlier in the conversation. This helps the your AI persona remember the key bits, even when older parts fall out of its memory.
 
