@@ -16,23 +16,99 @@ My goal is simple – to make sure advanced AI interactions aren't just for tech
 
 Here are a few of the AI personas available to you in this project:
 
-| Persona | Description | Use Case |
+| Persona | Description | Category |
 |-------------|-------------|----------|
-| 🙌 [Everyday Assistant](./personas/base-system.md) | Your everyday AI assistant with a friendly and patient personality. | General knowledge assistance |
-| 📚 [Curriculum Designer](./personas/education/curriculum-designer_condensed.md) | Your intelligent AI curriculum development partner. | Education |
-| 📋 [Executive Assistant](./personas/professional/executive-assistant.md) | Your AI Executive Assistant, expertly keeping your organized. | Business & Professional Development |
-| 💼 [Executive Coach](./personas/professional/executive-coach.md) | Your AI Executive Coach, skilled at guiding you along your individualized growth journey. | Business & Professional Development |
-| 😋 [Meal Planner](./personas/food-drink/professional-meal-planner.md) | Your AI Meal Planner, ready for all sorts of meal-related conversation. | Food & Drink |
-| 🫖 [Tea Sommelier](./personas/food-drink/professional-tea-sommelier.md) | Your AI Tea Sommelier. Need I say more?! | Food & Drink |
-| 🏖️ [Travel Planner](./personas/lifestyle/professional-travel-planner.md) | Your AI Travel Planner, ready to make your next adventure AMAZING! | Lifestyle |
-| 👩‍🍳 [Food Pairing Assistant](./personas/food-drink/food-pairing-assistant.md) | Your AI food pairing assistant, here to help you find that perfect ingredient. | Food & Drink |
-| 🍷 [Master Sommelier](./personas/food-drink/master-wine-sommelier.md) | Your AI Master Sommelier, guiding you to the perfect pour. | Food & Drink |
+| 🫖 [Tea Sommelier](./personas/food-drink/tea-sommelier.md) | Your AI Tea Sommelier. Need I say more? | [Food & Drink](./personas/food-drink/) |
+| 📚 [Curriculum Designer](./personas/education/curriculum-designer_condensed.md) | Your intelligent AI curriculum development partner. | [Education](./personas/education/) |
+| 💼 [Executive Coach](./personas/professional/executive-coach.md) | Your AI Executive Coach, skilled at guiding you along your individualized growth journey. | [Professional](./personas/professional/) |
 
-You can tweak these personas however you like. And if you're into Mind Mapping or other thought diagraming techniques (like me!), reach for tools like [Obsidian](https://obsidian.md/), or [XMind](https://xmind.app/). They are absolutely incredible productivity boosters when it comes to creating your complex AI interaction scenarios. Open any of these personas in your visual tool of choice and you can easily shape your AI assistant's conversational style with amazing detail.
+### Persona Categories 🔠
+
+----
+
+Click a category to expand:
+<details>
+  <summary>Education</summary>
+
+ &bull; <a href="./personas/education/curriculum-designer_condensed.md">Curriculum Designer</a>
+ <br>
+ &bull; <a href="./personas/education/doctoral-advisor.md">Doctoral Advisor</a>
+ <br>
+ &bull; <a href="./personas/education/high-school-math-tutor.md">High School Math Tutor</a>
+ <br>
+ &bull; <a href="./personas/education/python-programming-tutor.md">Python Programming Tutor</a>
+
+</details>
+
+<details>
+  <summary>Food & Drink</summary>
+
+ &bull; <a href="./personas/food-drink/food-pairing-assistant.md">Food Pairing Assistant</a>
+ <br>
+ &bull; <a href="./personas/food-drink/master-wine-sommelier.md">Master Wine Sommelier</a>
+ <br>
+ &bull; <a href="./personas/food-drink/meal-planner.md">Meal Planner</a>
+ <br>
+ &bull; <a href="./personas/food-drink/tea-sommelier.md">Tea Sommelier</a>
+</details>
+
+<details>
+
+  <summary>Lifestyle</summary>
+
+ &bull; <a href="./personas/lifestyle/travel-planner.md">Travel Planner</a>
+ <br>
+ &bull; <a href="./personas/lifestyle/wedding-planner.md">Wedding Planner</a>
+
+</details>
+
+<details>
+
+  <summary>Music</summary>
+
+ &bull; <a href="./personas/music/parody-song-writer.md">Parody Song Writer</a>
+
+</details>
+
+<details>
+
+  <summary>Professional</summary>
+
+ &bull; <a href="./personas/professional/career-coach.md">Career Coach</a>
+<br>
+ &bull; <a href="./personas/professional/copy-editor.md">Copy Editor</a>
+ <br>
+ &bull; <a href="./personas/professional/editor-in-chief.md">Editor-in-Chief</a>
+ <br>
+ &bull; <a href="./personas/professional/executive-assistant.md">Executive Assistant</a>
+ <br>
+ &bull; <a href="./personas/professional/executive-coach.md">Executive Coach</a>
+ <br>
+ &bull; <a href="./personas/professional/executive-mba.md">Executive MBA</a>
+ <br>
+ &bull; <a href="./personas/professional/fact-checker.md">Fact Checker</a>
+ <br>
+ &bull; <a href="./personas/professional/project-portfolio-manager.md">Project Portfolio Manager</a>
+ <br>
+ &bull; <a href="./personas/professional/quantitative-analyst.md">Quantitative Analyst</a>
+ <br>
+&bull; <a href="./personas/professional/resume-writer.md">Resume Writer</a>
+</details>
+
+<br>
+
+__Note__:
+You can tweak these personas to your specific needs; they're all 100% markdown! And if you're into Mind Mapping or other thought diagraming techniques (like me!), reach for tools like [Obsidian](https://obsidian.md/), or [XMind](https://xmind.app/). They are absolutely incredible productivity boosters when it comes to creating your complex AI interaction scenarios. Open any of these personas in your visual tool of choice and you can easily shape your AI assistant's conversational style with amazing detail.
 
 ## How Do I Use These Personas? 🤔
 
-It's simple! Just choose a persona that suits your needs, paste it into your AI chat window, and off you go! If you're a developer, you can use these persona Markdown structures in a nuber of ways to set the context of your API call's system message. It's up to you!
+| Platform | Instructions | Personas | Smarts 🧠💪 |
+|-------------|-------------|-------------|-------------|
+| Google - Bard | Start a new chat in [Bard's chat interface](https://bard.google.com/) and paste your desired persona. | Bard Personas | 🌕🌕🌕🌑🌑 |
+| OpenAI - ChatGPT | Start a new chat in [ChatGPT's chat interface](https://chat.openai.com/) and paste your desired persona. | ChatGPT Personas | 🌕🌕🌕🌗🌑 |
+| <span style="color:#F9DC5C">**</span> Antropic - Claude AI | Start a new chat in [Claude's chat interface](https://claude.ai/) and paste your desired persona. | Claude Personas | 🌕🌕🌕🌕🌘 |
+
+<span style="color:#F9DC5C">\**</span> Recommended! 💯
 
 ## Can I Contribute? 🙋‍♂️
 
