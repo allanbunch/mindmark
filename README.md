@@ -115,9 +115,9 @@ You can tweak these personas to your specific needs; they're all 100% markdown! 
 
 | Platform | Instructions  | Smarts 🧠💪 |
 |------------|------------|---------------|
-| Google - Bard | Start a new chat in [Bard's chat interface](https://bard.google.com/){:target="_blank"} and paste your desired persona. | 🌕🌕🌘🌑 |
-| OpenAI - ChatGPT | Start a new chat in [ChatGPT's chat interface](https://chat.openai.com/){:target="_blank"} and paste your desired persona. | 🌕🌕🌕🌑 |
-| <span style="color: #F9DC5C;">**</span> Antropic - Claude AI | Start a new chat in [Claude's chat interface](https://claude.ai/){:target="_blank"} and paste your desired persona. | 🌕🌕🌕🌘 |
+| Google - Bard | Start a new chat in <a href="https://bard.google.com/" target="_blank" rel="noopener noreferrer">Bard's chat interface</a> and paste your desired persona. | 🌕🌕🌘🌑 |
+| OpenAI - ChatGPT | Start a new chat in <a href="https://chat.openai.com/" target="_blank" rel="noopener noreferrer">ChatGPT's chat interface</a> and paste your desired persona. | 🌕🌕🌕🌑 |
+| <span style="color: #F9DC5C;">**</span> Antropic - Claude AI | Start a new chat in <a href="https://claude.ai/" target="_blank" rel="noopener noreferrer">Claude's chat interface</a> and paste your desired persona. | 🌕🌕🌕🌘 |
 
 <span style="color: #F9DC5C;">**</span> Recommended! 💯
 
