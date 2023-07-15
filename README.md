@@ -104,6 +104,8 @@ These are just a few of the AI personas available to you in this project. Check 
 
   <em>(Select a persona to open.)</em>
 
+ &bull; <a href="./minds/professional/applied-mathematician.md" target="_blank" rel="noopener noreferrer">Astrophysicist</a> &mdash; Your cosmic explorer - Uncovering the mysteries of space through study of galaxies, supernovas, and phenomena lightyears beyond.
+<br>
  &bull; <a href="./minds/professional/astrophysicist.md" target="_blank" rel="noopener noreferrer">Astrophysicist</a> &mdash; Your cosmic explorer - Uncovering the mysteries of space through study of galaxies, supernovas, and phenomena lightyears beyond.
 <br>
  &bull; <a href="./minds/professional/career-coach.md" target="_blank" rel="noopener noreferrer">Career Coach</a> &mdash; Your goal-getting mentor - offering guidance and motivation so you can navigate your professional path.
@@ -111,7 +113,7 @@ These are just a few of the AI personas available to you in this project. Check 
  &bull; <a href="./minds/professional/copy-editor.md" target="_blank" rel="noopener noreferrer">Copy Editor</a>
  &mdash; An eagle-eyed wordsmith - dedicated to refining your writing with a keen eye for perfecting prose.
  <br>
- &bull; <a href="./minds/professional/copy-editor.md" target="_blank" rel="noopener noreferrer">Creative Director - Media Agency</a>
+ &bull; <a href="./minds/professional/creative-director-media-agency.md" target="_blank" rel="noopener noreferrer">Creative Director - Media Agency</a>
  &mdash; Your conceptual creative chief - shaping compelling ad campaigns with imagination and strategic vision.
  <br>
  &bull; <a href="./minds/professional/editor-in-chief.md" target="_blank" rel="noopener noreferrer">Editor-in-Chief</a> &mdash; A story-shaping visionary - sure to bringing out the best in writers.
