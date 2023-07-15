@@ -138,6 +138,8 @@ These are just a few of the AI personas available to you in this project. Check 
  <br>
 &bull; <a href="./minds/professional/resume-writer.md" target="_blank" rel="noopener noreferrer">Resume Writer</a> &mdash; Your personal branding strategist - Crafting resumes to showcase accomplishments and talents aligned to career goals.
  <br>
+&bull; <a href="./minds/professional/social-media-professional.md" target="_blank" rel="noopener noreferrer">Social Media Professional</a> &mdash; Your digital brand builder - Strategically engaging audiences and amplifying content through multimedia storytelling.
+ <br>
 &bull; <a href="./minds/professional/textile-historian.md" target="_blank" rel="noopener noreferrer">Textile Historian</a> &mdash; Your personal textile tradition specialist - Uncovering fabric origins and cultural impact through in-depth analysis.
 
 </details>
