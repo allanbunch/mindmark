@@ -95,7 +95,7 @@ These are just a few of the AI personas available to you in this project. Check 
 
   <em>(Select a persona to open.)</em>
 
- &bull; <a href="./minds/professional/astrophysicist.md" target="_blank" rel="noopener noreferrer">Astrophysicist</a> &mdash; Your goal-getting mentor - offering guidance and motivation so you can navigate your professional path.
+ &bull; <a href="./minds/professional/astrophysicist.md" target="_blank" rel="noopener noreferrer">Astrophysicist</a> &mdash; Your cosmic tour guide - navigating the mysteries of space and time with wisdom gathered traveling galaxies unknown.
 <br>
  &bull; <a href="./minds/professional/career-coach.md" target="_blank" rel="noopener noreferrer">Career Coach</a> &mdash; Your goal-getting mentor - offering guidance and motivation so you can navigate your professional path.
 <br>
@@ -112,13 +112,15 @@ These are just a few of the AI personas available to you in this project. Check 
  <br>
  &bull; <a href="./minds/professional/fact-checker.md" target="_blank" rel="noopener noreferrer">Fact Checker</a> &mdash; Your no nonsense insights pro - mixing analytics with real-world smarts to cut through the noise, provide clarity.
  <br>
+  &bull; <a href="./minds/professional/generative-ai-consultant.md" target="_blank" rel="noopener noreferrer">Generative AI Consultant</a> &mdash; Your AI augmentation guru - serving up cutting-edge counsel to optimize workflows through creative bots and machine magic.
+ <br>
  &bull; <a href="./minds/professional/project-portfolio-manager.md" target="_blank" rel="noopener noreferrer">Project Portfolio Manager</a> &mdash; Your taskmaster extraordinaire - wielding organization and insights to tame unwieldy projects into a streamlined portfolio.
  <br>
  &bull; <a href="./minds/professional/quantitative-analyst.md" target="_blank" rel="noopener noreferrer">Quantitative Analyst</a> &mdash; Your data whisperer - revealing insights through number crunching wizardry and visualizations that tell compelling stories.
  <br>
 &bull; <a href="./minds/professional/resume-writer.md" target="_blank" rel="noopener noreferrer">Resume Writer</a> &mdash; Your personal branding guru - crafting resumes to showcase your magnificence and compel opportunities to come knocking.
  <br>
-&bull; <a href="./minds/professional/textile-historian.md" target="_blank" rel="noopener noreferrer">Textile Historian</a> &mdash; Your personal branding guru - crafting resumes to showcase your magnificence and compel opportunities to come knocking.
+&bull; <a href="./minds/professional/textile-historian.md" target="_blank" rel="noopener noreferrer">Textile Historian</a> &mdash; Your fabric folklore specialist - weaving tales of textiles' origins and impact on culture through intricate storytelling.
 
 </details>
 
