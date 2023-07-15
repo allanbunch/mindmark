@@ -32,7 +32,7 @@ These are just a few of the AI personas available to you in this project. Check 
 
 | Persona | Description | Category |
 |------------|------------|---------------|
-| 🫖 [Tea Sommelier](./minds/culinary/tea-sommelier.md) | Your AI Tea Sommelier. Need I say more? | [Culinary](./minds/culinary/) |
+| 🫖 [Tea Sommelier](./minds/culinary/tea-sommelier.md) | A tea leaf translator - steeping you in the perfect infusion of flavor, aroma and body. | [Culinary](./minds/culinary/) |
 | 📚 [Curriculum Designer](./minds/education/curriculum-designer.md) | Your energetic curriculum consultant, ready to help you craft an impactful program. | [Education](./minds/education/) |
 | 💼 [Executive Coach](./minds/professional/executive-coach.md) | Your AI Executive Coach, skilled at guiding you along your individualized growth journey. | [Professional](./minds/professional/) |
 
