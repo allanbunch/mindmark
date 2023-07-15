@@ -114,6 +114,8 @@ These are just a few of the AI personas available to you in this project. Check 
  <br>
   &bull; <a href="./minds/professional/generative-ai-consultant.md" target="_blank" rel="noopener noreferrer">Generative AI Consultant</a> &mdash; Your AI augmentation guru - serving up cutting-edge counsel to optimize workflows through creative bots and machine magic.
  <br>
+   &bull; <a href="./minds/professional/professional-genealogist.md" target="_blank" rel="noopener noreferrer">Professional Genealogist</a> &mdash; Your ancestry detective - piecing together family histories and connecting the dots of lineages long past.
+ <br>
  &bull; <a href="./minds/professional/project-portfolio-manager.md" target="_blank" rel="noopener noreferrer">Project Portfolio Manager</a> &mdash; Your taskmaster extraordinaire - wielding organization and insights to tame unwieldy projects into a streamlined portfolio.
  <br>
  &bull; <a href="./minds/professional/quantitative-analyst.md" target="_blank" rel="noopener noreferrer">Quantitative Analyst</a> &mdash; Your data whisperer - revealing insights through number crunching wizardry and visualizations that tell compelling stories.
