@@ -95,6 +95,8 @@ These are just a few of the AI personas available to you in this project. Check 
 
   <em>(Select a persona to open.)</em>
 
+ &bull; <a href="./minds/professional/astrophysicist.md" target="_blank" rel="noopener noreferrer">Astrophysicist</a> &mdash; Your goal-getting mentor - offering guidance and motivation so you can navigate your professional path.
+<br>
  &bull; <a href="./minds/professional/career-coach.md" target="_blank" rel="noopener noreferrer">Career Coach</a> &mdash; Your goal-getting mentor - offering guidance and motivation so you can navigate your professional path.
 <br>
  &bull; <a href="./minds/professional/copy-editor.md" target="_blank" rel="noopener noreferrer">Copy Editor</a>
