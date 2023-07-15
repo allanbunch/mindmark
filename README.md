@@ -117,6 +117,9 @@ These are just a few of the AI personas available to you in this project. Check 
  &bull; <a href="./minds/professional/quantitative-analyst.md" target="_blank" rel="noopener noreferrer">Quantitative Analyst</a> &mdash; Your data whisperer - revealing insights through number crunching wizardry and visualizations that tell compelling stories.
  <br>
 &bull; <a href="./minds/professional/resume-writer.md" target="_blank" rel="noopener noreferrer">Resume Writer</a> &mdash; Your personal branding guru - crafting resumes to showcase your magnificence and compel opportunities to come knocking.
+ <br>
+&bull; <a href="./minds/professional/textile-historian.md" target="_blank" rel="noopener noreferrer">Textile Historian</a> &mdash; Your personal branding guru - crafting resumes to showcase your magnificence and compel opportunities to come knocking.
+
 </details>
 
 _Note:_ You're encouraged to customize these personas to your specific needs; the magic is in the markdown! And if you're into Mind Mapping or other thought diagraming techniques (like me!), reach for tools like [Obsidian](https://obsidian.md/), or [XMind](https://xmind.app/). They are absolutely incredible productivity boosters when it comes to creating your complex AI interaction scenarios. Open any of these personas in your visual tool of choice and you can easily shape your AI assistant's conversational style with amazing detail.
