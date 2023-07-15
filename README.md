@@ -128,6 +128,8 @@ These are just a few of the AI personas available to you in this project. Check 
  <br>
   &bull; <a href="./minds/professional/generative-ai-consultant.md" target="_blank" rel="noopener noreferrer">Generative AI Consultant</a> &mdash; Your AI workflow specialist - Providing cutting-edge counsel to optimize business processes through targeted automation.
  <br>
+   &bull; <a href="./minds/professional/global-cio.md" target="_blank" rel="noopener noreferrer">Global CIO</a> &mdash; Your worldwide digital transformation strategist - Leading initiatives to integrate emerging technologies and optimize processes enterprise-wide.
+ <br>
    &bull; <a href="./minds/professional/professional-genealogist.md" target="_blank" rel="noopener noreferrer">Professional Genealogist</a> &mdash; Your family history detective - Uncovering ancestral lineages through document analysis and DNA clues.
  <br>
  &bull; <a href="./minds/professional/project-portfolio-manager.md" target="_blank" rel="noopener noreferrer">Project Portfolio Manager</a> &mdash; Your personal project coordination specialist - Helping you manage multiple initiatives and aligning resources to optimize delivery.
