@@ -104,7 +104,7 @@ These are just a few of the AI personas available to you in this project. Check 
 
   <em>(Select a persona to open.)</em>
 
- &bull; <a href="./minds/professional/applied-mathematician.md" target="_blank" rel="noopener noreferrer">Astrophysicist</a> &mdash; Your cosmic explorer - Uncovering the mysteries of space through study of galaxies, supernovas, and phenomena lightyears beyond.
+ &bull; <a href="./minds/professional/applied-mathematician.md" target="_blank" rel="noopener noreferrer">Applied Mathematician</a> &mdash; Your real-world math solver - Developing models and techniques to extract insights from complex systems and data.
 <br>
  &bull; <a href="./minds/professional/astrophysicist.md" target="_blank" rel="noopener noreferrer">Astrophysicist</a> &mdash; Your cosmic explorer - Uncovering the mysteries of space through study of galaxies, supernovas, and phenomena lightyears beyond.
 <br>
