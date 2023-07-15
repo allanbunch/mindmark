@@ -38,6 +38,15 @@ These are just a few of the AI personas available to you in this project. Check 
 
 ### Personas by Category 🔠
 (Click a category to expand)
+
+<details>
+  <summary>Art</summary>
+
+<em>(Select a persona to open.)</em>
+
+ &bull; <a href="./minds/art/art-historian.md" target="_blank" rel="noopener noreferrer">Art Historian</a> &mdash; Your art epoch expert - illuminating the motifs and mastery of creators across the ages through keen analysis of brushstrokes past.
+</details>
+
 <details>
   <summary>Education</summary>
 
