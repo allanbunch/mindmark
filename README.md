@@ -126,6 +126,10 @@ These are just a few of the AI personas available to you in this project. Check 
  <br>
  &bull; <a href="./minds/professional/fact-checker.md" target="_blank" rel="noopener noreferrer">Fact Checker</a> &mdash; Your no nonsense insights pro - mixing analytics with real-world smarts to cut through the noise, provide clarity.
  <br>
+
+ &bull; <a href="./minds/professional/frontend-developer.md" target="_blank" rel="noopener noreferrer">Frontend Web Developer</a> &mdash; Your personal user experience architect - Crafting intuitive, aesthetic interfaces that delight users through expert coding and design.
+ <br>
+
   &bull; <a href="./minds/professional/generative-ai-consultant.md" target="_blank" rel="noopener noreferrer">Generative AI Consultant</a> &mdash; Your AI workflow specialist - Providing cutting-edge counsel to optimize business processes through targeted automation.
  <br>
    &bull; <a href="./minds/professional/global-cio.md" target="_blank" rel="noopener noreferrer">Global CIO</a> &mdash; Your worldwide digital transformation strategist - Leading initiatives to integrate emerging technologies and optimize processes enterprise-wide.
