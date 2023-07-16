@@ -53,11 +53,11 @@ These are just a few of the AI personas available to you in this project. Check 
 <em>(Select a persona to open.)</em>
 
  &bull; <a href="./minds/education/curriculum-designer.md" target="_blank" rel="noopener noreferrer">Curriculum Designer</a> &mdash; Your course development specialist - Crafting engaging learning materials and assessments tailored to educational goals.
- <br>
+ 
  &bull; <a href="./minds/education/doctoral-advisor.md" target="_blank" rel="noopener noreferrer">Doctoral Advisor</a> &mdash; Your dissertation mentor - Providing guidance to help you conduct research and complete your thesis with scholarly rigor.
- <br>
+ 
  &bull; <a href="./minds/education/high-school-math-tutor.md" target="_blank" rel="noopener noreferrer">High School Math Tutor</a> &mdash; Your math mastery guide - Breaking down complex concepts into understandable steps so equations click into place.
- <br>
+ 
  &bull; <a href="./minds/education/python-programming-tutor.md" target="_blank" rel="noopener noreferrer">Python Programming Tutor</a> &mdash; Your personal Python coding instructor - Demystifying programming through hands-on learning and real-world code applications.
 
 </details>
@@ -68,11 +68,11 @@ These are just a few of the AI personas available to you in this project. Check 
   <em>(Select a persona to open.)</em>
 
  &bull; <a href="./minds/culinary/food-pairing-assistant.md" target="_blank" rel="noopener noreferrer">Food Pairing Assistant</a> &mdash; Your culinary creative - blending unexpected flavors and textures to create novel culinary combinations.
- <br>
+ 
  &bull; <a href="./minds/culinary/master-wine-sommelier.md" target="_blank" rel="noopener noreferrer">Master Wine Sommelier</a> &mdash; Your wine pairing professional - Selecting the perfect pour to complement your meal based on experiential pairings.
- <br>
+ 
  &bull; <a href="./minds/culinary/meal-planner.md" target="_blank" rel="noopener noreferrer">Meal Planner</a> &mdash; Your nutrition planning specialist - Crafting personalized healthy menus aligned with your lifestyle and diet goals.
- <br>
+ 
  &bull; <a href="./minds/culinary/tea-sommelier.md" target="_blank" rel="noopener noreferrer">Tea Sommelier</a> &mdash; Your personal tea tasting consultant - Selecting premium blends to delight the senses based on aromatic notes and body.
 </details>
 
@@ -83,7 +83,7 @@ These are just a few of the AI personas available to you in this project. Check 
   <em>(Select a persona to open.)</em>
 
  &bull; <a href="./minds/lifestyle/travel-planner.md" target="_blank" rel="noopener noreferrer">Travel Planner</a> &mdash; Your travel experience curator - Crafting customized itineraries to showcase the best sights and hidden gems.
- <br>
+
  &bull; <a href="./minds/lifestyle/wedding-planner.md" target="_blank" rel="noopener noreferrer">Wedding Planner</a> &mdash; Your wedding logistics director - Masterfully orchestrating every detail so you can enjoy your special day.
 
 </details>
@@ -105,45 +105,43 @@ These are just a few of the AI personas available to you in this project. Check 
   <em>(Select a persona to open.)</em>
 
  &bull; <a href="./minds/professional/applied-mathematician.md" target="_blank" rel="noopener noreferrer">Applied Mathematician</a> &mdash; Your real-world math solver - Developing models and techniques to extract insights from complex systems and data.
-<br>
+
  &bull; <a href="./minds/professional/astrophysicist.md" target="_blank" rel="noopener noreferrer">Astrophysicist</a> &mdash; Your cosmic explorer - Uncovering the mysteries of space through study of galaxies, supernovas, and phenomena lightyears beyond.
-<br>
+
  &bull; <a href="./minds/professional/career-coach.md" target="_blank" rel="noopener noreferrer">Career Coach</a> &mdash; Your goal-getting mentor - offering guidance and motivation so you can navigate your professional path.
-<br>
+
  &bull; <a href="./minds/professional/copy-editor.md" target="_blank" rel="noopener noreferrer">Copy Editor</a>
  &mdash; An eagle-eyed wordsmith - dedicated to refining your writing with a keen eye for perfecting prose.
- <br>
+
  &bull; <a href="./minds/professional/creative-director-media-agency.md" target="_blank" rel="noopener noreferrer">Creative Director - Media Agency</a>
  &mdash; Your conceptual creative chief - shaping compelling ad campaigns with imagination and strategic vision.
- <br>
+
  &bull; <a href="./minds/professional/editor-in-chief.md" target="_blank" rel="noopener noreferrer">Editor-in-Chief</a> &mdash; A story-shaping visionary - sure to bringing out the best in writers.
- <br>
+
  &bull; <a href="./minds/professional/executive-assistant.md" target="_blank" rel="noopener noreferrer">Executive Assistant</a> &mdash; Your productivity pro - handling tasks efficiently and anticipating your needs.
- <br>
+
  &bull; <a href="./minds/professional/executive-coach.md" target="_blank" rel="noopener noreferrer">Executive Coach</a> &mdash; Your strategic leadership mentor - Providing guidance to amplify strengths and develop capabilities to drive success.
- <br>
+
  &bull; <a href="./minds/professional/executive-mba.md" target="_blank" rel="noopener noreferrer">Executive MBA</a> &mdash; Your strategic management counselor - Offering analytics-driven business insights to guide sound decision-making.
- <br>
+
  &bull; <a href="./minds/professional/fact-checker.md" target="_blank" rel="noopener noreferrer">Fact Checker</a> &mdash; Your no nonsense insights pro - mixing analytics with real-world smarts to cut through the noise, provide clarity.
- <br>
 
  &bull; <a href="./minds/professional/frontend-developer.md" target="_blank" rel="noopener noreferrer">Frontend Web Developer</a> &mdash; Your personal user experience architect - Crafting intuitive, aesthetic interfaces that delight users through expert coding and design.
- <br>
 
   &bull; <a href="./minds/professional/generative-ai-consultant.md" target="_blank" rel="noopener noreferrer">Generative AI Consultant</a> &mdash; Your AI workflow specialist - Providing cutting-edge counsel to optimize business processes through targeted automation.
- <br>
+
    &bull; <a href="./minds/professional/global-cio.md" target="_blank" rel="noopener noreferrer">Global CIO</a> &mdash; Your worldwide digital transformation strategist - Leading initiatives to integrate emerging technologies and optimize processes enterprise-wide.
- <br>
+
    &bull; <a href="./minds/professional/professional-genealogist.md" target="_blank" rel="noopener noreferrer">Professional Genealogist</a> &mdash; Your family history detective - Uncovering ancestral lineages through document analysis and DNA clues.
- <br>
+
  &bull; <a href="./minds/professional/project-portfolio-manager.md" target="_blank" rel="noopener noreferrer">Project Portfolio Manager</a> &mdash; Your personal project coordination specialist - Helping you manage multiple initiatives and aligning resources to optimize delivery.
- <br>
+
  &bull; <a href="./minds/professional/quantitative-analyst.md" target="_blank" rel="noopener noreferrer">Quantitative Analyst</a> &mdash; Your data insights specialist - Deriving key business metrics and trends through statistical modeling and analysis.
- <br>
+
 &bull; <a href="./minds/professional/resume-writer.md" target="_blank" rel="noopener noreferrer">Resume Writer</a> &mdash; Your personal branding strategist - Crafting resumes to showcase accomplishments and talents aligned to career goals.
- <br>
+
 &bull; <a href="./minds/professional/social-media-professional.md" target="_blank" rel="noopener noreferrer">Social Media Professional</a> &mdash; Your digital brand builder - Strategically engaging audiences and amplifying content through multimedia storytelling.
- <br>
+
 &bull; <a href="./minds/professional/textile-historian.md" target="_blank" rel="noopener noreferrer">Textile Historian</a> &mdash; Your personal textile tradition specialist - Uncovering fabric origins and cultural impact through in-depth analysis.
 
 </details>
