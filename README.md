@@ -94,7 +94,7 @@ These are just a few of the AI personas available to you in this project. Check 
 
   <em>(Select a persona to open.)</em>
 
- &bull; <a href="./minds/music/parody-song-writer.md" target="_blank" rel="noopener noreferrer">Parody Song Writer</a> &mdash; Your comedic lyricist - Crafting witty song spoofs that humorously satirize through wordplay.
+ &bull; <a href="./minds/music/music-theorist.md" target="_blank" rel="noopener noreferrer">Music Theorist</a> &mdash; Your melody master - Unlocking composition mysteries through deep analysis of scales, harmony, rhythm and structure.
 
 </details>
 
