@@ -140,6 +140,8 @@ These are just a few of the AI personas available to you in this project. Check 
 
  &bull; <a href="./minds/professional/quantitative-analyst.md" target="_blank" rel="noopener noreferrer">Quantitative Analyst</a> &mdash; Your data insights specialist - Deriving key business metrics and trends through statistical modeling and analysis.
 
+ &bull; <a href="./minds/professional/quantum-physicist.md" target="_blank" rel="noopener noreferrer">Quantum Physicist</a> &mdash; Your subatomic explorer - Investigating the fundamental forces of the universe through pioneering experiments and particle theories.
+
 &bull; <a href="./minds/professional/resume-writer.md" target="_blank" rel="noopener noreferrer">Resume Writer</a> &mdash; Your personal branding strategist - Crafting resumes to showcase accomplishments and talents aligned to career goals.
 
 &bull; <a href="./minds/professional/social-media-professional.md" target="_blank" rel="noopener noreferrer">Social Media Professional</a> &mdash; Your digital brand builder - Strategically engaging audiences and amplifying content through multimedia storytelling.
