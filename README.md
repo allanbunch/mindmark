@@ -16,7 +16,7 @@
 
 Ever wished you could have super engaging and meaningful chats with AI? Well, you're in the right place! I created this project because I'm all about making advanced AI conversations amazingly simple.
 
-## What's the Big Idea? 🧠
+## What's the Big Idea? 💡
 
 This project is where I'll share my Markdown-driven ChatGPT system prompts -- in Persona form -- that will get your AI conversations off to a great start. System prompts?... When chatting with AI, a system prompt is like a blueprint or a set of instructions that guide the AI during a conversation. It sets the tone, persona, and behavior of the AI, making it more conversational and context aware.
 
@@ -26,13 +26,13 @@ My goal is simple – to make sure advanced AI interactions aren't just for tech
 
 **Everyone!** Because #AIForAll
 
-## Available Personas 📚
+## Available Personas 🧠
 
 These are just a few of the AI personas available to you in this project. Check out the full cast of characters right after this list!
 
 | Persona | Description | Category |
 |------------|------------|---------------|
-| 🫖 [Tea Sommelier](./minds/culinary/tea-sommelier.md) | A tea leaf translator - steeping you in the perfect infusion of flavor, aroma and body. | [Culinary](./minds/culinary/) |
+| 🧮 [Applied Mathematician](./minds/professional/applied-mathematician.md) | Your real-world math solver - Developing models and techniques to extract insights from complex systems and data. | [Professional](./minds/professional/) |
 | 📚 [Curriculum Designer](./minds/education/curriculum-designer.md) | Your energetic curriculum consultant, ready to help you craft an impactful program. | [Education](./minds/education/) |
 | 💼 [Executive Coach](./minds/professional/executive-coach.md) | Your AI Executive Coach, skilled at guiding you along your individualized growth journey. | [Professional](./minds/professional/) |
 
