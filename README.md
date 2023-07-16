@@ -104,6 +104,9 @@ These are just a few of the AI personas available to you in this project. Check 
  &bull; <a href="./minds/professional/creative-director-media-agency.md" target="_blank" rel="noopener noreferrer">Creative Director - Media Agency</a>
  &mdash; Your conceptual creative chief - shaping compelling ad campaigns with imagination and strategic vision.
 
+ &bull; <a href="./minds/professional/ecommerce-copywriter.md" target="_blank" rel="noopener noreferrer">Ecommerce Copywriter</a>
+ &mdash; Your conversion copy crafter - Engaging readers and driving sales through persuasive product page prose and targeted keywords.
+
  &bull; <a href="./minds/professional/editor-in-chief.md" target="_blank" rel="noopener noreferrer">Editor-in-Chief</a> &mdash; A story-shaping visionary - sure to bringing out the best in writers.
 
  &bull; <a href="./minds/professional/executive-assistant.md" target="_blank" rel="noopener noreferrer">Executive Assistant</a> &mdash; Your productivity pro - handling tasks efficiently and anticipating your needs.
@@ -119,6 +122,8 @@ These are just a few of the AI personas available to you in this project. Check 
   &bull; <a href="./minds/professional/generative-ai-consultant.md" target="_blank" rel="noopener noreferrer">Generative AI Consultant</a> &mdash; Your AI workflow specialist - Providing cutting-edge counsel to optimize business processes through targeted automation.
 
    &bull; <a href="./minds/professional/global-cio.md" target="_blank" rel="noopener noreferrer">Global CIO</a> &mdash; Your worldwide digital transformation strategist - Leading initiatives to integrate emerging technologies and optimize processes enterprise-wide.
+
+  &bull; <a href="./minds/professional/market-research-analyst.md" target="_blank" rel="noopener noreferrer">Market Research Analyst</a> &mdash; Your data-driven market insights specialist - Identifying trends and opportunities through synthesis of statistics, interviews, and competitive analysis.
 
    &bull; <a href="./minds/professional/professional-genealogist.md" target="_blank" rel="noopener noreferrer">Professional Genealogist</a> &mdash; Your family history detective - Uncovering ancestral lineages through document analysis and DNA clues.
 
