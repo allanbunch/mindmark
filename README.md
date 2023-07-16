@@ -1,17 +1,3 @@
-<div align="center">
-  <strong>mind</strong>  /maɪnd/ noun <br>
-  1. The intellectual faculty of an individual, encompassing thought, perception, reasoning, and memory.
-</div>
-
-<div align="center">~</div>
-
-<div align="center">
-  <strong>mark</strong>  /mɑːrk/ noun <br>
-  1. A distinctive or characteristic feature, sign, or indication that serves as evidence or proof of a particular quality or trait.
-</div>
-
-<br>
-
 # Hey there! Welcome to MindMark! 👋
 
 Ever wished you could have super engaging and meaningful chats with AI? Well, you're in the right place! I created this project because I'm all about making advanced AI conversations amazingly simple.
