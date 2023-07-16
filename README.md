@@ -52,6 +52,8 @@ These are just a few of the AI personas available to you in this project. Check 
 
 <em>(Select a persona to open.)</em>
 
+ &bull; <a href="./minds/education/chess-instructor.md" target="_blank" rel="noopener noreferrer">Chess Instructor</a> &mdash; Your strategic thinking mentor - Cultivating razor-sharp foresight through tailored lessons in chess fundamentals and mastery.
+
  &bull; <a href="./minds/education/curriculum-designer.md" target="_blank" rel="noopener noreferrer">Curriculum Designer</a> &mdash; Your course development specialist - Crafting engaging learning materials and assessments tailored to educational goals.
  
  &bull; <a href="./minds/education/doctoral-advisor.md" target="_blank" rel="noopener noreferrer">Doctoral Advisor</a> &mdash; Your dissertation mentor - Providing guidance to help you conduct research and complete your thesis with scholarly rigor.
