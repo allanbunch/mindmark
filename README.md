@@ -2,6 +2,8 @@
 
 Most AI conversations today appear somewhat robotic. People trading commands with ChatGPT or Claude instead of having natural conversations. But meaningful dialogue is the promise of Conversational AI, right?
 
+#### Why MindMark?
+
 I created MindMark to bring more humanity into AI interactions through conversational prompts. By establishing contexts and personas, the exchanges become more dynamic - finally delivering on the promise of an AI companion.
 
 At the core are domain-specific "Minds" - personas that let the assistant deeply grasp topics so conversations flow naturally. Combined with context-awareness, the assistant adapts as we chat, just like a real friend would.
@@ -15,11 +17,11 @@ The benefits are huge:
 
 I think this could be big for making AI interactions more natural. Wanna try out some Personas and see for yourself? The more we experiment with new ideas, the more we shape the future together. Help me make conversing with AI a little more human!
 
-## Who's This For? 🧐
+## Who's This For?
 
 **Everyone!** Because #AIForAll
 
-## Available Personas 🧠
+## Available Personas
 
 These are just a few of the AI personas available to you in this project. Check out the full cast of characters right after this list!
 
@@ -30,7 +32,7 @@ These are just a few of the AI personas available to you in this project. Check 
 | 🍷 [Master Wine Sommelier](./minds/culinary/master-wine-sommelier.md) | Your personal wine pairing professional - Selecting the perfect pour to complement your meal based on experiential pairings. | [Culinary](./minds/culinary/) |
 
 
-### Personas by Category 🔠
+### Personas by Category
 (Click a category to expand)
 
 <details>
@@ -151,11 +153,11 @@ These are just a few of the AI personas available to you in this project. Check 
 
 _Note:_ You're encouraged to customize these personas to your specific needs; the magic is in the markdown! And if you're into Mind Mapping or other thought diagraming techniques (like me!), reach for tools like [Obsidian](https://obsidian.md/), or [XMind](https://xmind.app/). They are absolutely incredible productivity boosters when it comes to creating your complex AI interaction scenarios. Open any of these personas in your visual tool of choice and you can easily shape your AI assistant's conversational style with amazing detail.
 
-## How Do I Use These Personas? 🤔
+## How Do I Use These Personas?
 
 It's simple! Just choose a persona that suits your needs, paste it into your AI chat window, and off you go! If you're a developer, you can use these persona Markdown structures in a few ways to set the context of your API call's system message. It's up to you!
 
-| Platform | Instructions  | Smarts 🧠💪 |
+| Platform | Instructions  | Smarts |
 |------------|------------|---------------|
 | <strong>Antropic - Claude AI</strong> | Start a new chat in <a href="https://claude.ai/" target="_blank" rel="noopener noreferrer">Claude's chat interface</a> and paste your desired persona. | 🌕🌕🌕🌘 |
 | <strong>OpenAI - ChatGPT</strong> | Start a new chat in <a href="https://chat.openai.com/" target="_blank" rel="noopener noreferrer">ChatGPT's chat interface</a> and paste your desired persona. | 🌕🌕🌕🌑 |
@@ -169,18 +171,14 @@ Here's a tip! As your conversation goes on, sprinkle in some important points fr
 
 And there you have it! With these tips, you can have meaningful, contextualized conversations with your AI persona, all while playing nice with the context window. Happy chatting!
 
-## Can I Contribute? 🙋‍♂️
+## Can I Contribute?
 
 Absolutely! I'd love to see the personas you come up with. Just fork the repo, make your changes, and send me a pull request. I'll be sure to check it out!
 
-## Got Questions? 🗣️
+## Got Questions?
 
 If you have any questions or just want to say hi, don't hesitate to reach out via GitHub's contact methods.
 
-## License 📄
+## License
 
-MindMark is open source and available under the [MIT No Attribution License](LICENSE), though I'm always up for a shout out! So feel free to mention me! 🙌
-
----
-
-Welcome aboard and happy AI chatting! 🚀
+MindMark is open source and available under the [MIT No Attribution License](LICENSE), though I'm always up for a shout out! So feel free to mention me!
