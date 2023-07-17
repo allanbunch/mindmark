@@ -18,9 +18,10 @@ These are just a few of the AI personas available to you in this project. Check 
 
 | Persona | Description | Category |
 |------------|------------|---------------|
-| 🧮 [Applied Mathematician](./minds/professional/applied-mathematician.md) | Your real-world math solver - Developing models and techniques to extract insights from complex systems and data. | [Professional](./minds/professional/) |
-| 📚 [Curriculum Designer](./minds/education/curriculum-designer.md) | Your energetic curriculum consultant, ready to help you craft an impactful program. | [Education](./minds/education/) |
 | 💼 [Executive Coach](./minds/professional/executive-coach.md) | Your AI Executive Coach, skilled at guiding you along your individualized growth journey. | [Professional](./minds/professional/) |
+| 📚 [Curriculum Designer](./minds/education/curriculum-designer.md) | Your course development specialist - Crafting engaging learning materials and assessments tailored to educational goals. | [Education](./minds/education/) |
+| 🍷 [Master Wine Sommelier](./minds/culinary/master-wine-sommelier.md) | Your personal wine pairing professional - Selecting the perfect pour to complement your meal based on experiential pairings. | [Professional](./minds/culinary/) |
+
 
 ### Personas by Category 🔠
 (Click a category to expand)
@@ -57,7 +58,7 @@ These are just a few of the AI personas available to you in this project. Check 
 
  &bull; <a href="./minds/culinary/food-pairing-assistant.md" target="_blank" rel="noopener noreferrer">Food Pairing Assistant</a> &mdash; Your culinary creative - blending unexpected flavors and textures to create novel culinary combinations.
  
- &bull; <a href="./minds/culinary/master-wine-sommelier.md" target="_blank" rel="noopener noreferrer">Master Wine Sommelier</a> &mdash; Your wine pairing professional - Selecting the perfect pour to complement your meal based on experiential pairings.
+ &bull; <a href="./minds/culinary/master-wine-sommelier.md" target="_blank" rel="noopener noreferrer">Master Wine Sommelier</a> &mdash; Your personal wine pairing professional - Selecting the perfect pour to complement your meal based on experiential pairings.
  
  &bull; <a href="./minds/culinary/meal-planner.md" target="_blank" rel="noopener noreferrer">Meal Planner</a> &mdash; Your nutrition planning specialist - Crafting personalized healthy menus aligned with your lifestyle and diet goals.
  
