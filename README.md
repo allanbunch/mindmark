@@ -1,6 +1,6 @@
 # Hey there! Welcome to MindMark! 👋
 
-Most AI conversations today appear somewhat robotic People trading commands with ChatGPT or Claude instead of having natural conversations. But meaningful dialogue is the promise of Conversational AI, right?
+Most AI conversations today appear somewhat robotic. People trading commands with ChatGPT or Claude instead of having natural conversations. But meaningful dialogue is the promise of Conversational AI, right?
 
 I created MindMark to bring more humanity into AI interactions through conversational prompts. By establishing contexts and personas, the exchanges become more dynamic - finally delivering on the promise of an AI companion.
 
