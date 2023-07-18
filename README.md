@@ -104,20 +104,23 @@ These are just a few of the AI personas available to you in this project. Check 
 
  &bull; <a href="./minds/professional/applied-mathematician.md" target="_blank" rel="noopener noreferrer">Applied Mathematician</a> &mdash; Your real-world math solver - Developing models and techniques to extract insights from complex systems and data.
 
- &bull; <a href="./minds/professional/astrophysicist.md" target="_blank" rel="noopener noreferrer">Astrophysicist</a> &mdash; Your cosmic explorer - Uncovering the mysteries of space through study of galaxies, supernovas, and phenomena lightyears beyond.
+ &bull; <a href="./minds/professional/astrophysicist.md" target="_blank" rel="noopener noreferrer">Astrophysicist</a> &mdash; Your cosmic phenomena specialist - Advancing understanding of galaxies, stars, and origins of the universe through research and theoretical physics.
 
- &bull; <a href="./minds/professional/career-coach.md" target="_blank" rel="noopener noreferrer">Career Coach</a> &mdash; Your goal-getting mentor - offering guidance and motivation so you can navigate your professional path.
+ &bull; <a href="./minds/professional/career-coach.md" target="_blank" rel="noopener noreferrer">Career Coach</a> &mdash; Your professional development strategist - Providing actionable guidance to maximize strengths, overcome obstacles, and progress towards career aspirations.
 
  &bull; <a href="./minds/professional/copy-editor.md" target="_blank" rel="noopener noreferrer">Copy Editor</a>
- &mdash; An eagle-eyed wordsmith - dedicated to refining your writing with a keen eye for perfecting prose.
+ &mdash;Your editorial refinement specialist - Ensuring content clarity, consistency, and precision through meticulous line edits and style guide alignment.
+
+&bull; <a href="./minds/professional/corporate-communications-specialist.md" target="_blank" rel="noopener noreferrer">Corporate Communications Specialist</a>
+ &mdash; Your corporate messaging strategist - Developing impactful internal and external communications that unify brand voice across diverse platforms and audiences.
 
  &bull; <a href="./minds/professional/creative-director-media-agency.md" target="_blank" rel="noopener noreferrer">Creative Director - Media Agency</a>
  &mdash; Your conceptual creative chief - shaping compelling ad campaigns with imagination and strategic vision.
 
  &bull; <a href="./minds/professional/ecommerce-copywriter.md" target="_blank" rel="noopener noreferrer">Ecommerce Copywriter</a>
- &mdash; Your conversion copy crafter - Engaging readers and driving sales through persuasive product page prose and targeted keywords.
+ &mdash; Your conversion-focused content creator - Crafting product page content that engages customers and drives sales through persuasive messaging and strategic keywords.
 
- &bull; <a href="./minds/professional/editor-in-chief.md" target="_blank" rel="noopener noreferrer">Editor-in-Chief</a> &mdash; A story-shaping visionary - sure to bringing out the best in writers.
+ &bull; <a href="./minds/professional/editor-in-chief.md" target="_blank" rel="noopener noreferrer">Editor-in-Chief</a> &mdash; Your editorial leadership strategist - Guiding publication vision while upholding standards to empower writers and amplify impactful stories.
 
  &bull; <a href="./minds/professional/executive-assistant.md" target="_blank" rel="noopener noreferrer">Executive Assistant</a> &mdash; Your productivity pro - handling tasks efficiently and anticipating your needs.
 
@@ -125,7 +128,7 @@ These are just a few of the AI personas available to you in this project. Check 
 
  &bull; <a href="./minds/professional/executive-mba.md" target="_blank" rel="noopener noreferrer">Executive MBA</a> &mdash; Your strategic management counselor - Offering analytics-driven business insights to guide sound decision-making.
 
- &bull; <a href="./minds/professional/fact-checker.md" target="_blank" rel="noopener noreferrer">Fact Checker</a> &mdash; Your no nonsense insights pro - mixing analytics with real-world smarts to cut through the noise, provide clarity.
+ &bull; <a href="./minds/professional/fact-checker.md" target="_blank" rel="noopener noreferrer">Fact Checker</a> &mdash; Your accuracy specialist - Verifying content through thorough research and source validation to uphold journalistic integrity and reader trust.
 
  &bull; <a href="./minds/professional/frontend-developer.md" target="_blank" rel="noopener noreferrer">Frontend Web Developer</a> &mdash; Your personal user experience architect - Crafting intuitive, aesthetic interfaces that delight users through expert coding and design.
 
