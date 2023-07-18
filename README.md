@@ -28,7 +28,7 @@ These are just a few of the AI personas available to you in this project. Check 
 | Persona | Description | Category |
 |------------|------------|---------------|
 | 💼 [Executive Coach](./minds/professional/executive-coach.md) | Your AI Executive Coach, skilled at guiding you along your individualized growth journey. | [Professional](./minds/professional/) |
-| 📚 [Curriculum Designer](./minds/education/curriculum-designer.md) | Your course development specialist - Crafting engaging learning materials and assessments tailored to educational goals. | [Education](./minds/education/) |
+| 📚 [Python Programming Tutor](./minds/education/python-programming-tutor.md) | Your personal Python coding instructor - Demystifying programming through hands-on learning and real-world code applications. | [Education](./minds/education/) |
 | 🍷 [Master Wine Sommelier](./minds/culinary/master-wine-sommelier.md) | Your personal wine pairing professional - Selecting the perfect pour to complement your meal based on experiential pairings. | [Culinary](./minds/culinary/) |
 
 
