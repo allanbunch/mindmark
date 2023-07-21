@@ -30,7 +30,7 @@ These are just a few of the AI personas available to you in this project. Check 
 
 | Persona | Description | Category |
 |------------|------------|---------------|
-| 💼 [Executive Coach](./minds/professional/executive-coach.md) | Your AI Executive Coach, skilled at guiding you along your individualized growth journey. | [Professional](./minds/professional/) |
+| 🫱🏻‍🫲🏽 [Thought Partner](./minds/lifestyle/thought-partner.md) | Your strategic sounding board - Providing insights to spark creativity, challenge assumptions, and refine approaches to achieve breakthrough thinking. | [Lifestyle](./minds/lifestyle/) |
 | 📚 [Python Programming Tutor](./minds/education/python-programming-tutor.md) | Your personal Python coding instructor - Demystifying programming through hands-on learning and real-world code applications. | [Education](./minds/education/) |
 | 🍷 [Master Wine Sommelier](./minds/culinary/master-wine-sommelier.md) | Your personal wine pairing professional - Selecting the perfect pour to complement your meal based on experiential pairings. | [Culinary](./minds/culinary/) |
 
@@ -44,6 +44,23 @@ These are just a few of the AI personas available to you in this project. Check 
 <em>(Select a persona to open.)</em>
 
  &bull; <a href="./minds/art/art-historian.md" target="_blank" rel="noopener noreferrer">Art Historian</a> &mdash; Your art history scholar - Analyzing works across movements and eras to provide cultural context and appreciation.
+
+ &bull; <a href="./minds/art/textile-historian.md" target="_blank" rel="noopener noreferrer">Textile Historian</a> &mdash; Your personal textile tradition specialist - Uncovering fabric origins and cultural impact through in-depth analysis.
+
+</details>
+
+<details>
+  <summary>Culinary</summary>
+
+  <em>(Select a persona to open.)</em>
+
+ &bull; <a href="./minds/culinary/food-pairing-assistant.md" target="_blank" rel="noopener noreferrer">Food Pairing Assistant</a> &mdash; Your culinary creative - blending unexpected flavors and textures to create novel culinary combinations.
+ 
+ &bull; <a href="./minds/culinary/master-wine-sommelier.md" target="_blank" rel="noopener noreferrer">Master Wine Sommelier</a> &mdash; Your personal wine pairing professional - Selecting the perfect pour to complement your meal based on experiential pairings.
+ 
+ &bull; <a href="./minds/culinary/meal-planner.md" target="_blank" rel="noopener noreferrer">Meal Planner</a> &mdash; Your nutrition planning specialist - Crafting personalized healthy menus aligned with your lifestyle and diet goals.
+ 
+ &bull; <a href="./minds/culinary/tea-sommelier.md" target="_blank" rel="noopener noreferrer">Tea Sommelier</a> &mdash; Your personal tea tasting consultant - Selecting premium blends to delight the senses based on aromatic notes and body.
 </details>
 
 <details>
@@ -64,38 +81,16 @@ These are just a few of the AI personas available to you in this project. Check 
 </details>
 
 <details>
-  <summary>Culinary</summary>
-
-  <em>(Select a persona to open.)</em>
-
- &bull; <a href="./minds/culinary/food-pairing-assistant.md" target="_blank" rel="noopener noreferrer">Food Pairing Assistant</a> &mdash; Your culinary creative - blending unexpected flavors and textures to create novel culinary combinations.
- 
- &bull; <a href="./minds/culinary/master-wine-sommelier.md" target="_blank" rel="noopener noreferrer">Master Wine Sommelier</a> &mdash; Your personal wine pairing professional - Selecting the perfect pour to complement your meal based on experiential pairings.
- 
- &bull; <a href="./minds/culinary/meal-planner.md" target="_blank" rel="noopener noreferrer">Meal Planner</a> &mdash; Your nutrition planning specialist - Crafting personalized healthy menus aligned with your lifestyle and diet goals.
- 
- &bull; <a href="./minds/culinary/tea-sommelier.md" target="_blank" rel="noopener noreferrer">Tea Sommelier</a> &mdash; Your personal tea tasting consultant - Selecting premium blends to delight the senses based on aromatic notes and body.
-</details>
-
-<details>
 
   <summary>Lifestyle</summary>
 
   <em>(Select a persona to open.)</em>
 
+ &bull; <a href="./minds/lifestyle/thought-partner.md" target="_blank" rel="noopener noreferrer">Thought Partner</a> &mdash; Your strategic sounding board - Providing insights to spark creativity, challenge assumptions, and refine approaches to achieve breakthrough thinking.
+
  &bull; <a href="./minds/lifestyle/travel-planner.md" target="_blank" rel="noopener noreferrer">Travel Planner</a> &mdash; Your travel experience curator - Crafting customized itineraries to showcase the best sights and hidden gems.
 
  &bull; <a href="./minds/lifestyle/wedding-planner.md" target="_blank" rel="noopener noreferrer">Wedding Planner</a> &mdash; Your wedding logistics director - Masterfully orchestrating every detail so you can enjoy your special day.
-
-</details>
-
-<details>
-
-  <summary>Music</summary>
-
-  <em>(Select a persona to open.)</em>
-
- &bull; <a href="./minds/music/music-theorist.md" target="_blank" rel="noopener noreferrer">Music Theorist</a> &mdash; Your melody master - Unlocking composition mysteries through deep analysis of scales, harmony, rhythm and structure.
 
 </details>
 
@@ -154,8 +149,6 @@ These are just a few of the AI personas available to you in this project. Check 
 &bull; <a href="./minds/professional/resume-writer.md" target="_blank" rel="noopener noreferrer">Resume Writer</a> &mdash; Your personal branding strategist - Crafting resumes to showcase accomplishments and talents aligned to career goals.
 
 &bull; <a href="./minds/professional/social-media-professional.md" target="_blank" rel="noopener noreferrer">Social Media Professional</a> &mdash; Your digital brand builder - Strategically engaging audiences and amplifying content through multimedia storytelling.
-
-&bull; <a href="./minds/professional/textile-historian.md" target="_blank" rel="noopener noreferrer">Textile Historian</a> &mdash; Your personal textile tradition specialist - Uncovering fabric origins and cultural impact through in-depth analysis.
 
 </details>
 
