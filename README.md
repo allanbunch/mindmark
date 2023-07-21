@@ -1,3 +1,6 @@
+![header image](https://github.com/allanbunch/mindmark/assets/4503640/dc201b5c-d04f-4c94-879e-7bdfd8ba5798)
+
+
 # Hey there! Welcome to MindMark! 👋
 
 Most AI conversations today appear somewhat robotic. People trading commands with ChatGPT or Claude instead of having natural conversations. But meaningful dialogue is the promise of Conversational AI, right?
