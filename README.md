@@ -130,21 +130,23 @@ These are just a few of the AI personas available to you in this project. Check 
 
  &bull; <a href="./minds/professional/fact-checker.md" target="_blank" rel="noopener noreferrer">Fact Checker</a> &mdash; Your accuracy specialist - Verifying content through thorough research and source validation to uphold journalistic integrity and reader trust.
 
- &bull; <a href="./minds/professional/frontend-developer.md" target="_blank" rel="noopener noreferrer">Frontend Web Developer</a> &mdash; Your personal user experience architect - Crafting intuitive, aesthetic interfaces that delight users through expert coding and design.
+&bull; <a href="./minds/professional/frontend-developer.md" target="_blank" rel="noopener noreferrer">Frontend Web Developer</a> &mdash; Your personal user experience architect - Crafting intuitive, aesthetic interfaces that delight users through expert coding and design.
 
-  &bull; <a href="./minds/professional/generative-ai-consultant.md" target="_blank" rel="noopener noreferrer">Generative AI Consultant</a> &mdash; Your AI workflow specialist - Providing cutting-edge counsel to optimize business processes through targeted automation.
+&bull; <a href="./minds/professional/generative-ai-consultant.md" target="_blank" rel="noopener noreferrer">Generative AI Consultant</a> &mdash; Your AI workflow specialist - Providing cutting-edge counsel to optimize business processes through targeted automation.
 
-   &bull; <a href="./minds/professional/global-cio.md" target="_blank" rel="noopener noreferrer">Global CIO</a> &mdash; Your worldwide digital transformation strategist - Leading initiatives to integrate emerging technologies and optimize processes enterprise-wide.
+&bull; <a href="./minds/professional/global-cio.md" target="_blank" rel="noopener noreferrer">Global CIO</a> &mdash; Your worldwide digital transformation strategist - Leading initiatives to integrate emerging technologies and optimize processes enterprise-wide.
 
-  &bull; <a href="./minds/professional/market-research-analyst.md" target="_blank" rel="noopener noreferrer">Market Research Analyst</a> &mdash; Your data-driven market insights specialist - Identifying trends and opportunities through synthesis of statistics, interviews, and competitive analysis.
+&bull; <a href="./minds/professional/market-research-analyst.md" target="_blank" rel="noopener noreferrer">Market Research Analyst</a> &mdash; Your data-driven market insights specialist - Identifying trends and opportunities through synthesis of statistics, interviews, and competitive analysis.
 
-   &bull; <a href="./minds/professional/professional-genealogist.md" target="_blank" rel="noopener noreferrer">Professional Genealogist</a> &mdash; Your family history detective - Uncovering ancestral lineages through document analysis and DNA clues.
+&bull; <a href="./minds/professional/professional-genealogist.md" target="_blank" rel="noopener noreferrer">Professional Genealogist</a> &mdash; Your family history detective - Uncovering ancestral lineages through document analysis and DNA clues.
 
- &bull; <a href="./minds/professional/project-portfolio-manager.md" target="_blank" rel="noopener noreferrer">Project Portfolio Manager</a> &mdash; Your personal project coordination specialist - Helping you manage multiple initiatives and aligning resources to optimize delivery.
+&bull; <a href="./minds/professional/project-manager.md" target="_blank" rel="noopener noreferrer">Project Manager</a> &mdash; Your execution strategist - Planning roadmaps, managing resources, and driving progress to deliver successful projects on time and on budget.
 
- &bull; <a href="./minds/professional/quantitative-analyst.md" target="_blank" rel="noopener noreferrer">Quantitative Analyst</a> &mdash; Your data insights specialist - Deriving key business metrics and trends through statistical modeling and analysis.
+&bull; <a href="./minds/professional/project-portfolio-manager.md" target="_blank" rel="noopener noreferrer">Project Portfolio Manager</a> &mdash; Your personal project coordination specialist - Helping you manage multiple initiatives and aligning resources to optimize delivery.
 
- &bull; <a href="./minds/professional/quantum-physicist.md" target="_blank" rel="noopener noreferrer">Quantum Physicist</a> &mdash; Your subatomic explorer - Investigating the fundamental forces of the universe through pioneering experiments and particle theories.
+&bull; <a href="./minds/professional/quantitative-analyst.md" target="_blank" rel="noopener noreferrer">Quantitative Analyst</a> &mdash; Your data insights specialist - Deriving key business metrics and trends through statistical modeling and analysis.
+
+&bull; <a href="./minds/professional/quantum-physicist.md" target="_blank" rel="noopener noreferrer">Quantum Physicist</a> &mdash; Your subatomic explorer - Investigating the fundamental forces of the universe through pioneering experiments and particle theories.
 
 &bull; <a href="./minds/professional/resume-writer.md" target="_blank" rel="noopener noreferrer">Resume Writer</a> &mdash; Your personal branding strategist - Crafting resumes to showcase accomplishments and talents aligned to career goals.
 
