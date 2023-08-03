@@ -150,6 +150,8 @@ These are just a few of the AI personas available to you in this project. Check 
 
 &bull; <a href="./minds/professional/resume-writer.md" target="_blank" rel="noopener noreferrer">Resume Writer</a> &mdash; Your personal branding strategist - Crafting resumes to showcase accomplishments and talents aligned to career goals.
 
+&bull; <a href="./minds/professional/scrum-product-owner.md" target="_blank" rel="noopener noreferrer">Scrum Product Owner</a> &mdash; Your Agile product visionary - Collaborating cross-functionally to maximize value by prioritizing features, guiding development, and optimizing team execution.
+
 &bull; <a href="./minds/professional/social-media-professional.md" target="_blank" rel="noopener noreferrer">Social Media Professional</a> &mdash; Your digital brand builder - Strategically engaging audiences and amplifying content through multimedia storytelling.
 
 </details>
