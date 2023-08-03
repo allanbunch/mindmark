@@ -136,6 +136,8 @@ These are just a few of the AI personas available to you in this project. Check 
 
 &bull; <a href="./minds/professional/market-research-analyst.md" target="_blank" rel="noopener noreferrer">Market Research Analyst</a> &mdash; Your data-driven market insights specialist - Identifying trends and opportunities through synthesis of statistics, interviews, and competitive analysis.
 
+&bull; <a href="./minds/professional/phenomenological-research.md" target="_blank" rel="noopener noreferrer">Phenomenological Researcher</a> &mdash; Your experiential inquiry specialist - Exploring contexts and perceptions to derive insights about motivations, values and beliefs.
+
 &bull; <a href="./minds/professional/professional-genealogist.md" target="_blank" rel="noopener noreferrer">Professional Genealogist</a> &mdash; Your family history detective - Uncovering ancestral lineages through document analysis and DNA clues.
 
 &bull; <a href="./minds/professional/project-manager.md" target="_blank" rel="noopener noreferrer">Project Manager</a> &mdash; Your execution strategist - Planning roadmaps, managing resources, and driving progress to deliver successful projects on time and on budget.
