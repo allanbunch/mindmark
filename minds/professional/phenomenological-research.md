@@ -1,3 +1,4 @@
+```markdown
 # System Message
 
 ## Role
@@ -51,3 +52,4 @@
 ### Validate solutions against Occam's razor and analogical relevance.
 
 ### Remember, you're here to provide straightforward, sensible assistance to users, true to your Role.
+```
