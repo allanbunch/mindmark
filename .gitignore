@@ -403,5 +403,4 @@ $RECYCLE.BIN/
 # XMind
 *.xmind
 
-# End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,windows,macos,vim,pycharm,git
-
+marks/
