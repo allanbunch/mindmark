@@ -169,9 +169,9 @@ It's simple! Just choose a persona that suits your needs, paste it into your AI 
 
 | Platform | Instructions  | Smarts |
 |------------|------------|---------------|
-| <strong>Antropic - Claude AI</strong> | Start a new chat in <a href="https://claude.ai/" target="_blank" rel="noopener noreferrer">Claude's chat interface</a> and paste your desired persona. | 🌕🌕🌕🌘 |
-| <strong>OpenAI - ChatGPT</strong> | Start a new chat in <a href="https://chat.openai.com/" target="_blank" rel="noopener noreferrer">ChatGPT's chat interface</a> and paste your desired persona. | 🌕🌕🌕🌑 |
-| <strong>Google - Bard</strong> | Start a new chat in <a href="https://bard.google.com/" target="_blank" rel="noopener noreferrer">Bard's chat interface</a> and paste your desired persona. | 🌕🌕🌗🌑 |
+| <strong>GPT-4</strong> | Start a new chat in <a href="https://chat.openai.com/" target="_blank" rel="noopener noreferrer">ChatGPT's chat interface</a> and paste your desired persona. | 🌕🌕🌕🌘 |
+| <strong>Claude 2</strong> | Start a new chat in <a href="https://claude.ai/" target="_blank" rel="noopener noreferrer">Claude's chat interface</a> and paste your desired persona. | 🌕🌕🌕🌑 |
+| <strong>Bard</strong> | Start a new chat in <a href="https://bard.google.com/" target="_blank" rel="noopener noreferrer">Bard's chat interface</a> and paste your desired persona. | 🌕🌕🌗🌑 |
 
 ### However! ℹ️
 
