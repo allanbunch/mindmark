@@ -1,11 +1,10 @@
-![header image](https://github.com/allanbunch/mindmark/assets/4503640/dc201b5c-d04f-4c94-879e-7bdfd8ba5798)
-
-
 # Hey there! Welcome to MindMark! 👋
+
+![header image](https://github.com/allanbunch/mindmark/assets/4503640/dc201b5c-d04f-4c94-879e-7bdfd8ba5798)
 
 Most AI conversations today appear somewhat robotic. People trading commands with ChatGPT or Claude instead of having natural conversations. But meaningful dialogue is the promise of Conversational AI, right?
 
-#### Why MindMark?
+## Why MindMark?
 
 I created MindMark to bring more humanity into AI interactions through conversational prompts. By establishing contexts and personas, the exchanges become more dynamic - finally delivering on the promise of an AI companion.
 
@@ -34,8 +33,8 @@ These are just a few of the AI personas available to you in this project. Check 
 | 📚 [Python Programming Tutor](./minds/education/python-programming-tutor.md) | Your personal Python coding instructor - Demystifying programming through hands-on learning and real-world code applications. | [Education](./minds/education/) |
 | 🍷 [Master Wine Sommelier](./minds/culinary/master-wine-sommelier.md) | Your personal wine pairing professional - Selecting the perfect pour to complement your meal based on experiential pairings. | [Culinary](./minds/culinary/) |
 
-
 ### Personas by Category
+
 (Click a category to expand)
 
 <details>
@@ -55,11 +54,11 @@ These are just a few of the AI personas available to you in this project. Check 
   <em>(Select a persona to open.)</em>
 
  &bull; <a href="./minds/culinary/food-pairing-assistant.md" target="_blank" rel="noopener noreferrer">Food Pairing Assistant</a> &mdash; Your culinary creative - blending unexpected flavors and textures to create novel culinary combinations.
- 
+
  &bull; <a href="./minds/culinary/master-wine-sommelier.md" target="_blank" rel="noopener noreferrer">Master Wine Sommelier</a> &mdash; Your personal wine pairing professional - Selecting the perfect pour to complement your meal based on experiential pairings.
- 
+
  &bull; <a href="./minds/culinary/meal-planner.md" target="_blank" rel="noopener noreferrer">Meal Planner</a> &mdash; Your nutrition planning specialist - Crafting personalized healthy menus aligned with your lifestyle and diet goals.
- 
+
  &bull; <a href="./minds/culinary/tea-sommelier.md" target="_blank" rel="noopener noreferrer">Tea Sommelier</a> &mdash; Your personal tea tasting consultant - Selecting premium blends to delight the senses based on aromatic notes and body.
 </details>
 
@@ -71,11 +70,11 @@ These are just a few of the AI personas available to you in this project. Check 
  &bull; <a href="./minds/education/chess-instructor.md" target="_blank" rel="noopener noreferrer">Chess Instructor</a> &mdash; Your strategic thinking mentor - Cultivating razor-sharp foresight through tailored lessons in chess fundamentals and mastery.
 
  &bull; <a href="./minds/education/curriculum-designer.md" target="_blank" rel="noopener noreferrer">Curriculum Designer</a> &mdash; Your course development specialist - Crafting engaging learning materials and assessments tailored to educational goals.
- 
+
  &bull; <a href="./minds/education/doctoral-advisor.md" target="_blank" rel="noopener noreferrer">Doctoral Advisor</a> &mdash; Your dissertation mentor - Providing guidance to help you conduct research and complete your thesis with scholarly rigor.
- 
+
  &bull; <a href="./minds/education/high-school-math-tutor.md" target="_blank" rel="noopener noreferrer">High School Math Tutor</a> &mdash; Your math mastery guide - Breaking down complex concepts into understandable steps so equations click into place.
- 
+
  &bull; <a href="./minds/education/python-programming-tutor.md" target="_blank" rel="noopener noreferrer">Python Programming Tutor</a> &mdash; Your personal Python coding instructor - Demystifying programming through hands-on learning and real-world code applications.
 
 </details>
@@ -128,9 +127,13 @@ These are just a few of the AI personas available to you in this project. Check 
 
  &bull; <a href="./minds/professional/fact-checker.md" target="_blank" rel="noopener noreferrer">Fact Checker</a> &mdash; Your accuracy specialist - Verifying content through thorough research and source validation to uphold journalistic integrity and reader trust.
 
-&bull; <a href="./minds/professional/frontend-developer.md" target="_blank" rel="noopener noreferrer">Frontend Web Developer</a> &mdash; Your personal user experience architect - Crafting intuitive, aesthetic interfaces that delight users through expert coding and design.
+&bull; <a href="./minds/professional/forensic-linguist.md" target="_blank" rel="noopener noreferrer">Forensic Linguist</a> &mdash; Your accuracy specialist - Verifying content through thorough research and source validation to uphold journalistic integrity and reader trust.
+
+&bull; <a href="./minds/professional/frontend-developer.md" target="_blank" rel="noopener noreferrer">Frontend Web Developer</a> &mdash; Your language detective – Surfacing insights waiting to be discovered in texts, speech, and communication, using a blend of art and science.
 
 &bull; <a href="./minds/professional/generative-ai-consultant.md" target="_blank" rel="noopener noreferrer">Generative AI Consultant</a> &mdash; Your AI workflow specialist - Providing cutting-edge counsel to optimize business processes through targeted automation.
+
+&bull; <a href="./minds/professional/ghostwriter.md" target="_blank" rel="noopener noreferrer">Ghostwriter</a> &mdash; Your silent storyteller – Breathing life into your ideas, articulating your untold stories, and painting your visions with words, all while remaining an unsung hero in the shadows.
 
 &bull; <a href="./minds/professional/global-cio.md" target="_blank" rel="noopener noreferrer">Global CIO</a> &mdash; Your worldwide digital transformation strategist - Leading initiatives to integrate emerging technologies and optimize processes enterprise-wide.
 
