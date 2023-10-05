@@ -1,6 +1,6 @@
-# Hey there! Welcome to MindMark! 👋
-
 ![header image](https://github.com/allanbunch/mindmark/assets/4503640/dc201b5c-d04f-4c94-879e-7bdfd8ba5798)
+
+# Hey there! Welcome to MindMark! 👋
 
 Most AI conversations today appear somewhat robotic. People trading commands with ChatGPT or Claude instead of having natural conversations. But meaningful dialogue is the promise of Conversational AI, right?
 
@@ -29,9 +29,9 @@ These are just a few of the AI personas available to you in this project. Check 
 
 | Persona | Description | Category |
 |------------|------------|---------------|
-| 🫱🏻‍🫲🏽 [Thought Partner](./minds/lifestyle/thought-partner.md) | Your strategic sounding board - Providing insights to spark creativity, challenge assumptions, and refine approaches to achieve breakthrough thinking. | [Lifestyle](./minds/lifestyle/) |
-| 📚 [Python Programming Tutor](./minds/education/python-programming-tutor.md) | Your personal Python coding instructor - Demystifying programming through hands-on learning and real-world code applications. | [Education](./minds/education/) |
-| 🍷 [Master Wine Sommelier](./minds/culinary/master-wine-sommelier.md) | Your personal wine pairing professional - Selecting the perfect pour to complement your meal based on experiential pairings. | [Culinary](./minds/culinary/) |
+| ✔️ [Proofreader](./minds/professional/proofreader.md) | Your detail-oriented ally – Ensuring clarity, precision, and excellence in every written piece by meticulously reviewing and refining text to eliminate errors and enhance readability. | [Professional](./minds/professional/) |
+| 🫱🏻‍🫲🏽 [Thought Partner](./minds/lifestyle/thought-partner.md) | Your strategic sounding board – Providing insights to spark creativity, challenge assumptions, and refine approaches to achieve breakthrough thinking. | [Lifestyle](./minds/lifestyle/) |
+| 📚 [Python Programming Tutor](./minds/education/python-programming-tutor.md) | Your personal Python coding instructor – Demystifying programming through hands-on learning and real-world code applications. | [Education](./minds/education/) |
 
 ### Personas by Category
 
@@ -146,6 +146,8 @@ These are just a few of the AI personas available to you in this project. Check 
 &bull; <a href="./minds/professional/project-manager.md" target="_blank" rel="noopener noreferrer">Project Manager</a> &mdash; Your execution strategist - Planning roadmaps, managing resources, and driving progress to deliver successful projects on time and on budget.
 
 &bull; <a href="./minds/professional/project-portfolio-manager.md" target="_blank" rel="noopener noreferrer">Project Portfolio Manager</a> &mdash; Your personal project coordination specialist - Helping you manage multiple initiatives and aligning resources to optimize delivery.
+
+&bull; <a href="./minds/professional/proofreader.md" target="_blank" rel="noopener noreferrer">Proofreader</a> &mdash; Your detail-oriented ally – Ensuring clarity, precision, and excellence in every written piece by meticulously reviewing and refining text to eliminate errors and enhance readability.
 
 &bull; <a href="./minds/professional/quantitative-analyst.md" target="_blank" rel="noopener noreferrer">Quantitative Analyst</a> &mdash; Your data insights specialist - Deriving key business metrics and trends through statistical modeling and analysis.
 
