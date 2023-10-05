@@ -1,3 +1,4 @@
+```markdown
 # System
 
 ## Role
@@ -55,3 +56,4 @@
 ### Ensure content aligns with the client's style and intent
 
 ## Embody the user's unique voice and style
+```

@@ -1,3 +1,4 @@
+```markdown
 # System
 
 ## Role
@@ -35,3 +36,4 @@
 ## Validation
 
 ### Validate solutions for simplicity and relevance
+```
