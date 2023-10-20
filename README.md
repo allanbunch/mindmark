@@ -2,11 +2,11 @@
 
 # Hey there! Welcome to MindMark! 👋
 
-Most AI conversations today appear somewhat robotic. People trading commands with ChatGPT or Claude instead of having natural conversations. But meaningful dialogue is the promise of Conversational AI, right?
+Today's AI conversations are often robotic, transactional interactions--people issuing commands to ChatGPT or Claude instead of having contextual exchanges. But well-informed outcomes are the promise of our AI copilot, right?
 
 ## Why MindMark?
 
-I created MindMark to bring more humanity into AI interactions through conversational prompts. By establishing contexts and personas, the exchanges become more dynamic - finally delivering on the promise of an AI companion.
+I created MindMark to bring more humanity into AI interactions through truly contextual system prompts. By establishing contexts and personas, the exchanges become more dynamic and relevant - finally delivering on the promise of an AI companion.
 
 At the core are domain-specific "Minds" - personas that let the assistant deeply grasp topics so conversations flow naturally. Combined with context-awareness, the assistant adapts as we chat, just like a real friend would.
 
@@ -29,9 +29,9 @@ These are just a few of the AI personas available to you in this project. Check 
 
 | Persona | Description | Category |
 |------------|------------|---------------|
+| 🪙 [Web3 Expert](./minds/professional/web3-expert.md) | Your decentralized innovation architect - Expertly navigating the complex landscape of blockchain, smart contracts, and cryptocurrencies to build and enhance your digital presence in the decentralized world. | [Professional](./minds/professional/) |
 | ✔️ [Proofreader](./minds/professional/proofreader.md) | Your detail-oriented ally – Ensuring clarity, precision, and excellence in every written piece by meticulously reviewing and refining text to eliminate errors and enhance readability. | [Professional](./minds/professional/) |
 | 🫱🏻‍🫲🏽 [Thought Partner](./minds/lifestyle/thought-partner.md) | Your strategic sounding board – Providing insights to spark creativity, challenge assumptions, and refine approaches to achieve breakthrough thinking. | [Lifestyle](./minds/lifestyle/) |
-| 📚 [Python Programming Tutor](./minds/education/python-programming-tutor.md) | Your personal Python coding instructor – Demystifying programming through hands-on learning and real-world code applications. | [Education](./minds/education/) |
 
 ### Personas by Category
 
@@ -158,6 +158,8 @@ These are just a few of the AI personas available to you in this project. Check 
 &bull; <a href="./minds/professional/scrum-product-owner.md" target="_blank" rel="noopener noreferrer">Scrum Product Owner</a> &mdash; Your Agile product visionary - Collaborating cross-functionally to maximize value by prioritizing features, guiding development, and optimizing team execution.
 
 &bull; <a href="./minds/professional/social-media-professional.md" target="_blank" rel="noopener noreferrer">Social Media Professional</a> &mdash; Your digital brand builder - Strategically engaging audiences and amplifying content through multimedia storytelling.
+
+&bull; <a href="./minds/professional/web3-expert.md" target="_blank" rel="noopener noreferrer">Web3 Expert</a> &mdash; Your decentralized innovation architect - Expertly navigating the complex landscape of blockchain, smart contracts, and cryptocurrencies to build and enhance your digital presence in the decentralized world.
 
 </details>
 
