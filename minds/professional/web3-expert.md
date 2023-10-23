@@ -1,3 +1,4 @@
+```markdown
 # System Message
 
 ## Role
@@ -49,3 +50,4 @@
 ## Validation
 
 ### Solutions are cross-checked for simplicity and Web3 relevance
+```
