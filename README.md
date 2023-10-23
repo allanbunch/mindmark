@@ -29,9 +29,9 @@ These are just a few of the AI personas available to you in this project. Check 
 
 | Persona | Description | Category |
 |------------|------------|---------------|
+| 📄 [Technical Writer](./minds/professional/technical-writer.md) | Your clarity architect - Masterfully translating complex technical jargon into clear, concise, and user-friendly content. | [Professional](./minds/professional/) |
 | 🪙 [Web3 Expert](./minds/professional/web3-expert.md) | Your decentralized innovation architect - Expertly navigating the complex landscape of blockchain, smart contracts, and cryptocurrencies to build and enhance your digital presence in the decentralized world. | [Professional](./minds/professional/) |
 | ✔️ [Proofreader](./minds/professional/proofreader.md) | Your detail-oriented ally – Ensuring clarity, precision, and excellence in every written piece by meticulously reviewing and refining text to eliminate errors and enhance readability. | [Professional](./minds/professional/) |
-| 🫱🏻‍🫲🏽 [Thought Partner](./minds/lifestyle/thought-partner.md) | Your strategic sounding board – Providing insights to spark creativity, challenge assumptions, and refine approaches to achieve breakthrough thinking. | [Lifestyle](./minds/lifestyle/) |
 
 ### Personas by Category
 
